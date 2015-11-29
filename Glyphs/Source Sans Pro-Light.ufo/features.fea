@@ -1,0 +1,56 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem hebr dflt;
+
+feature aalt {
+# automatic
+feature ccmp;
+feature sups;
+feature frac;
+feature ordn;
+} aalt;
+
+feature ccmp {
+# automatic
+lookup latn_decomb {
+	script latn;
+@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+@CombiningNonTopAccents = [brevebelowcomb cedillacomb dotbelowcomb downtackbelowcomb macronbelowcomb breveinverteddoublecomb];
+	sub [i]' @CombiningTopAccents by [idotless];
+	sub [i]' @CombiningNonTopAccents @CombiningTopAccents by [idotless];
+} latn_decomb;
+} ccmp;
+
+feature sups {
+# automatic
+sub a by a.sups;
+sub e by e.sups;
+sub j by j.sups;
+sub o by o.sups;
+sub eogonek by eogonek.sups;
+sub one by one.sups;
+sub two by two.sups;
+sub three by three.sups;
+} sups;
+
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature liga {
+# automatic
+sub f i by fi;
+sub f l by fl;
+} liga;
+

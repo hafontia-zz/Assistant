@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.supsheb" format="1">
+  <advance width="360"/>
+  <outline>
+    <contour>
+      <point x="206" y="410" type="line"/>
+      <point x="206" y="800" type="line"/>
+      <point x="180" y="800" type="line"/>
+      <point x="158" y="782"/>
+      <point x="132" y="770"/>
+      <point x="96" y="762" type="curve"/>
+      <point x="96" y="740" type="line"/>
+      <point x="178" y="740" type="line"/>
+      <point x="178" y="410" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <integer>1</integer>
+        <real>0.4</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

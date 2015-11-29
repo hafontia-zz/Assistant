@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="1000"/>
+  <unicode hex="2026"/>
+  <outline>
+    <component base="period" xOffset="62"/>
+    <component base="period" xOffset="396"/>
+    <component base="period" xOffset="730"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>500</integer>
+          <key>y</key>
+          <integer>253</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.3</real>
+        <integer>1</integer>
+        <real>0.547</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
