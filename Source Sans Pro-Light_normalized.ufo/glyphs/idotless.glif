@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="1">
+	<unicode hex="0131"/>
+	<advance width="222"/>
+	<outline>
+		<contour>
+			<point x="126" y="0" type="line"/>
+			<point x="126" y="478" type="line"/>
+			<point x="96" y="478" type="line"/>
+			<point x="96" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point name="baseLC" x="111" y="0" type="move"/>
+		</contour>
+		<contour>
+			<point name="ogonekLC" x="130" y="0" type="move"/>
+		</contour>
+		<contour>
+			<point name="belowLC" x="110" y="-20" type="move"/>
+		</contour>
+		<contour>
+			<point name="aboveLC" x="112" y="500" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.8</real>
+				<real>0.8</real>
+				<real>0.6</real>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>
