@@ -2,7 +2,7 @@
 DisplayStrings = (
 "/alef-hb/bet-hb/gimel-hb/dalet-hb/he-hb/vav-hb/zayin-hb/het-hb t/alef-hb/tet-hb/tet-hb/yod-hb/finalkaf-hb/kaf-hb/lamed-hb/finalmem-hb/mem-hb/finalnun-hb/nun-hb/samekh-hb/ayin-hb/finalpe-hb/pe-hb/finaltsadi-hb/alef-hb/tsadi-hb/alef-hb/qof-hb/resh-hb/shin-hb/tav-hb/tav-hb \012/mem-hb/samekh-hb/tet-hb/samekh-hb/tet-hb/samekh-hb/tav-hb/vav-hb/resh-hb/yod-hb/vav-hb/tav-hb \012/mem-hb/ayin-hb/tsadi-hb/vav-hb/resh-hb/ayin-hb/tet-hb  /tsadi-hb/vav-hb/resh-hb/he-hb \012/mem-hb/shin-hb/samekh-hb/tav-hb/vav-hb/finalmem-hb  /tet-hb/samekh-hb \012/he-hb/tet-hb/ayin-hb/vav-hb/tav-hb  /het-hb/tet-hb/vav-hb/alef-hb \012/mem-hb/tet-hb/ayin-hb/finalnun-hb  /het-hb/resh-hb/tet-hb/tet-hb/finalnun-hb"
 );
-copyright = "Copyright 2010, 2012, 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Copyright 2015 Ben Nathan. ";
+copyright = "Copyright 2015 Ben Nathan. Copyright 2010, 2012, 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.";
 customParameters = (
 {
 name = glyphOrder;
