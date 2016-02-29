@@ -9,4 +9,5 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Paul Hunt <phunt@adobe.com>
+Natanael Gana <info@ndiscover.com>
+Joana Correia <joanamcsilva@gmail.com>
