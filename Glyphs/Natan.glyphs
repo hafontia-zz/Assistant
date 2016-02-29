@@ -48903,8 +48903,8 @@ weightClass = Bold;
 },
 {
 interpolationWeight = 200;
-name = Black;
-weightClass = Black;
+name = ExtraBold;
+weightClass = ExtraBold;
 }
 );
 kerning = {
