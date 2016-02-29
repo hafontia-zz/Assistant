@@ -48897,6 +48897,8 @@ weightClass = SemiBold;
 },
 {
 interpolationWeight = 175;
+isBold = 1;
+linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
 },
