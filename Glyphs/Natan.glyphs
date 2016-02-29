@@ -93,6 +93,7 @@ verticalStems = (
 32,
 48
 );
+weight = Light;
 xHeight = 500;
 },
 {
@@ -48877,7 +48878,7 @@ width = 290;
 disablesNiceNames = 1;
 instances = (
 {
-name = "Extra Light";
+name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
@@ -48891,18 +48892,19 @@ name = Regular;
 },
 {
 interpolationWeight = 150;
-name = "Semi Bold";
+name = SemiBold;
 weightClass = SemiBold;
 },
 {
 interpolationWeight = 175;
+isBold = 1;
 name = Bold;
 weightClass = Bold;
 },
 {
 interpolationWeight = 200;
-name = "Ultra Bold";
-weightClass = UltraBold;
+name = ExtraBold;
+weightClass = ExtraBold;
 }
 );
 kerning = {
