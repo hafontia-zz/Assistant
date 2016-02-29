@@ -19,7 +19,6 @@ value = "Source is a trademark of Adobe Systems Incorporated in the United State
 {
 name = fsType;
 value = (
-    3
 );
 }
 );
