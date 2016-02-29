@@ -60263,4 +60263,5 @@ org.unifiedfontobject.normalizer.modTimes = "version: 0a1\0121443733937.0 fontin
 };
 versionMajor = 2;
 versionMinor = 0;
+versionMinor = 1;
 }
