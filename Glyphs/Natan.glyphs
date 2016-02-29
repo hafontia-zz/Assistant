@@ -52422,6 +52422,9 @@ questiondown = -140;
 "@MMK_R_LAT_X_UC_RIGHT" = -10;
 "@MMK_R_PCT_COMMA_RIGHT" = -100;
 };
+"alef-hb" = {
+"lamed-hb" = -30;
+};
 aturned = {
 "@MMK_R_LAT_T_UC_RIGHT" = -20;
 "@MMK_R_LAT_V_UC_RIGHT" = -8;
@@ -52488,6 +52491,10 @@ ismall = {
 "@MMK_R_LAT_V_LC_RIGHT" = -10;
 "@MMK_R_LAT_W_LC_RIGHT" = -10;
 "@MMK_R_LAT_Y_LC_RIGHT" = 10;
+};
+"nun-hb" = {
+"samekh-hb" = -30;
+"tet-hb" = -20;
 };
 periodcentered = {
 "@MMK_R_CYR_ACYR_SC_RIGHT" = -20;
@@ -52576,6 +52583,9 @@ questiondown = {
 "@MMK_R_LAT_X_UC_RIGHT" = -20;
 "@MMK_R_LAT_Y_UC_RIGHT" = -60;
 };
+"resh-hb" = {
+"bet-hb" = -30;
+};
 rsmall = {
 "@MMK_R_LAT_Y_SC_RIGHT" = -4;
 };
@@ -52609,6 +52619,9 @@ icircumflex = 80;
 idieresis = 80;
 imacron = 80;
 };
+"tav-hb" = {
+"yod-hb" = -10;
+};
 yturned = {
 "@MMK_R_LAT_A_LC_RIGHT" = -20;
 "@MMK_R_LAT_J_LC_RIGHT" = -10;
@@ -52619,19 +52632,6 @@ yturned = {
 "@MMK_R_PCT_COMMA_RIGHT" = -14;
 registered = 60;
 trademark = 60;
-};
-"nun-hb" = {
-"samekh-hb" = -30;
-"tet-hb" = -20;
-};
-"resh-hb" = {
-"bet-hb" = -30;
-};
-"alef-hb" = {
-"lamed-hb" = -30;
-};
-"tav-hb" = {
-"yod-hb" = -10;
 };
 };
 "A57419AF-C607-4C6D-867D-F9F312359F5B" = {
@@ -55208,6 +55208,9 @@ questiondown = -120;
 "@MMK_R_LAT_X_UC_RIGHT" = -10;
 "@MMK_R_PCT_COMMA_RIGHT" = -140;
 };
+"alef-hb" = {
+"lamed-hb" = -30;
+};
 aturned = {
 "@MMK_R_LAT_T_UC_RIGHT" = -30;
 "@MMK_R_LAT_V_UC_RIGHT" = -30;
@@ -55257,6 +55260,10 @@ registered = 20;
 slash = -20;
 trademark = 0;
 };
+"gimel-hb" = {
+"dalet-hb" = -30;
+"zayin-hb" = -30;
+};
 ismall = {
 "@MMK_R_LAT_F_LC_RIGHT" = -20;
 "@MMK_R_LAT_G_LC_RIGHT" = -10;
@@ -55266,6 +55273,9 @@ ismall = {
 "@MMK_R_LAT_V_LC_RIGHT" = -30;
 "@MMK_R_LAT_W_LC_RIGHT" = -30;
 "@MMK_R_LAT_Y_LC_RIGHT" = -30;
+};
+"nun-hb" = {
+"samekh-hb" = -30;
 };
 periodcentered = {
 "@MMK_R_CYR_ACYR_SC_RIGHT" = -10;
@@ -55333,6 +55343,9 @@ questiondown = {
 "@MMK_R_LAT_X_UC_RIGHT" = -80;
 "@MMK_R_LAT_Y_UC_RIGHT" = -140;
 };
+"resh-hb" = {
+"bet-hb" = -30;
+};
 rsmall = {
 "@MMK_R_LAT_Y_SC_RIGHT" = -20;
 };
@@ -55358,6 +55371,9 @@ idieresis = 40;
 igrave = 40;
 imacron = 40;
 };
+"tav-hb" = {
+"yod-hb" = -20;
+};
 yturned = {
 "@MMK_R_LAT_A_LC_RIGHT" = -20;
 "@MMK_R_LAT_J_LC_RIGHT" = -10;
@@ -55371,22 +55387,6 @@ yturned = {
 "@MMK_R_LAT_Z_LC_RIGHT" = -30;
 "@MMK_R_PCT_COMMA_RIGHT" = -70;
 registered = 20;
-};
-"resh-hb" = {
-"bet-hb" = -30;
-};
-"nun-hb" = {
-"samekh-hb" = -30;
-};
-"alef-hb" = {
-"lamed-hb" = -30;
-};
-"tav-hb" = {
-"yod-hb" = -20;
-};
-"gimel-hb" = {
-"dalet-hb" = -30;
-"zayin-hb" = -30;
 };
 };
 };
