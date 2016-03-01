@@ -21,6 +21,10 @@ value = "Source is a trademark of Adobe Systems Incorporated in the United State
 name = fsType;
 value = (
 );
+},
+{
+name = vendorID;
+value = HFNT;
 }
 );
 date = "2015-11-05 11:30:34 +0000";
