@@ -1,5 +1,7 @@
 # Assistant Hebrew + Latin Fonts
 
+![Preview of the fonts](Documentation/preview.png)
+
 Assistant is a Hebrew and Latin type family, with a contemporary sans serif Hebrew design.
 The family contains 6 upright styles, from ExtraLight to Black.
 
