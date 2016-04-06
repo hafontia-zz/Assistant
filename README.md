@@ -1,7 +1,9 @@
-# Assistant
+# Assistant Hebrew + Latin Fonts
 
-Assistant is a Hebrew type family designed by Ben Nathan to complement the Source Sans Pro Latin fonts by Paul Hunt at Adobe Type.
+Assistant is a Hebrew and Latin type family, with a contemporary sans serif Hebrew design.
+The family contains 6 upright styles, from ExtraLight to Black.
 
-Hebrew type family designed by Ben Nathan.
-Sans Serif contemporary Hebrew design with Latin by "Source Sans Pro" by Paul Hunt, Adobe.
-The family contains 6 styles, from Extra Light to Black.
+Hebrew type family was designed by Ben Nathan, to complement the Latin Source Sans Pro that was designed by Paul Hunt at Adobe Type.
+
+The Assistant project is led by Ben Nathan, a type designer based in Tel Aviv, Israel. 
+To contribute, see <a href="https://github.com/hafontia/Assistant">github.com/hafontia/Assistant</a>
