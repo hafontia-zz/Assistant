@@ -1,7 +1,7 @@
 {
-.appVersion = "870";
+.appVersion = "1230";
 DisplayStrings = (
-"/alef-hb/bet-hb/gimel-hb/dalet-hb/he-hb/vav-hb/zayin-hb/het-hb/tet-hb/yod-hb/finalkaf-hb/kaf-hb/lamed-hb/finalmem-hb/mem-hb/finalnun-hb/nun-hb/samekh-hb/ayin-hb/finalpe-hb/pe-hb/finaltsadi-hb/tsadi-hb/qof-hb/resh-hb/shin-hb/tav-hb/shinshindot-hb/shinsindot-hb/shindageshshindot-hb/shindageshsindot-hb/alefpatah-hb/alefqamats-hb/alefdagesh-hb/betdagesh-hb/gimeldagesh-hb/daletdagesh-hb/hedagesh-hb/vavdagesh-hb/zayindagesh-hb/tetdagesh-hb/yoddagesh-hb/finalkafdagesh-hb/kafdagesh-hb/lameddagesh-hb/memdagesh-hb/nundagesh-hb/samekhdagesh-hb/finalpedagesh-hb/pedagesh-hb/tsadidagesh-hb/qofdagesh-hb/reshdagesh-hb/shindagesh-hb/tavdagesh-hb/vavholam-hb/paseq-hb/sofpasuq-hb/geresh-hb/gershayim-hb/maqaf-hb/sheva-hb/hatafsegol-hb/hatafpatah-hb/hatafqamats-hb/hiriq-hb/tsere-hb/segol-hb/patah-hb/qamats-hb/holam-hb/holamhaser-hb/qubuts-hb/dagesh-hb/rafe-hb/shindot-hb/sindot-hb/qamatsqatan-hb"
+"Ç"
 );
 copyright = "Copyright 2010 The Amirim Project Authors, with Reserved Font Name 'Source'. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.";
 customParameters = (
@@ -30,6 +30,7 @@ value = HFNT;
 date = "2015-11-05 11:30:34 +0000";
 designer = "Hebrew By Ben Nathan, Latin by Paul Hunt";
 designerURL = hafontia.com;
+disablesNiceNames = 1;
 familyName = Assistant;
 featurePrefixes = (
 {
@@ -262,9 +263,9 @@ rightKerningGroup = LAT_A_UC_LEFT;
 unicode = 0041;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -318,8 +319,8 @@ rightKerningGroup = LAT_A_UC_LEFT;
 unicode = 00C1;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -362,8 +363,8 @@ rightKerningGroup = LAT_A_UC_LEFT;
 unicode = 0102;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -406,8 +407,8 @@ rightKerningGroup = LAT_A_UC_LEFT;
 unicode = 00C2;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -462,8 +463,8 @@ rightKerningGroup = LAT_A_UC_LEFT;
 unicode = 00C4;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -506,8 +507,8 @@ rightKerningGroup = LAT_A_UC_LEFT;
 unicode = 1EA0;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -550,8 +551,8 @@ rightKerningGroup = LAT_A_UC_LEFT;
 unicode = 00C0;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -594,8 +595,8 @@ rightKerningGroup = LAT_A_UC_LEFT;
 unicode = 0100;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -650,8 +651,8 @@ rightKerningGroup = LAT_A_UC_LEFT;
 unicode = 00C5;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -694,8 +695,8 @@ rightKerningGroup = LAT_A_UC_LEFT;
 unicode = 00C3;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -818,9 +819,9 @@ rightKerningGroup = LAT_E_UC_LEFT;
 unicode = 00C6;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -1001,8 +1002,8 @@ rightKerningGroup = LAT_B_UC_LEFT;
 unicode = 1E06;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -1156,8 +1157,8 @@ rightKerningGroup = LAT_C_UC_LEFT;
 unicode = 010C;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -1166,7 +1167,7 @@ com.typemytype.robofont.mark = (
 {
 color = (202,77,255,1);
 glyphname = Ccedilla;
-lastChange = "2016-03-01 19:55:16 +0000";
+lastChange = "2019-07-25 21:07:33 +0000";
 layers = (
 {
 components = (
@@ -1174,8 +1175,8 @@ components = (
 name = C;
 },
 {
-name = newGlyph;
-transform = "{1, 0, 0, 1, 352, 0}";
+name = cedilla;
+transform = "{1, 0, 0, 1, 72, 0}";
 }
 );
 layerId = "786F3AE7-681A-4E36-83D7-614DB6CCA2F0";
@@ -1187,8 +1188,8 @@ components = (
 name = C;
 },
 {
-name = newGlyph;
-transform = "{1, 0, 0, 1, 352, 0}";
+name = cedilla;
+transform = "{1, 0, 0, 1, 72, 0}";
 }
 );
 layerId = "A57419AF-C607-4C6D-867D-F9F312359F5B";
@@ -1200,8 +1201,8 @@ rightKerningGroup = LAT_C_UC_LEFT;
 unicode = 00C7;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -1314,9 +1315,9 @@ rightKerningGroup = LAT_O_UC_LEFT;
 unicode = 0044;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -1396,9 +1397,9 @@ rightKerningGroup = LAT_O_UC_LEFT;
 unicode = 00D0;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -1440,8 +1441,8 @@ rightKerningGroup = LAT_O_UC_LEFT;
 unicode = 1E0C;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -1484,8 +1485,8 @@ rightKerningGroup = LAT_O_UC_LEFT;
 unicode = 1E0E;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -1584,9 +1585,9 @@ rightKerningGroup = LAT_E_UC_LEFT;
 unicode = 0045;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -1640,8 +1641,8 @@ rightKerningGroup = LAT_E_UC_LEFT;
 unicode = 00C9;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -1684,8 +1685,8 @@ rightKerningGroup = LAT_E_UC_LEFT;
 unicode = 0114;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -1728,8 +1729,8 @@ rightKerningGroup = LAT_E_UC_LEFT;
 unicode = 00CA;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -1772,8 +1773,8 @@ rightKerningGroup = LAT_E_UC_LEFT;
 unicode = 00CB;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -1816,8 +1817,8 @@ rightKerningGroup = LAT_E_UC_LEFT;
 unicode = 1EB8;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -1860,8 +1861,8 @@ rightKerningGroup = LAT_E_UC_LEFT;
 unicode = 00C8;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -1904,8 +1905,8 @@ rightKerningGroup = LAT_E_UC_LEFT;
 unicode = 0112;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -2099,9 +2100,9 @@ rightKerningGroup = LAT_F_UC_LEFT;
 unicode = 0046;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -2254,8 +2255,8 @@ rightKerningGroup = LAT_G_UC_LEFT;
 unicode = 01E6;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -2298,8 +2299,8 @@ rightKerningGroup = LAT_G_UC_LEFT;
 unicode = 0120;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -2342,8 +2343,8 @@ rightKerningGroup = LAT_G_UC_LEFT;
 unicode = 1E20;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -2434,9 +2435,9 @@ rightKerningGroup = LAT_H_UC_LEFT;
 unicode = 0048;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -2531,8 +2532,8 @@ rightKerningGroup = LAT_H_UC_LEFT;
 unicode = 1E2A;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -2575,8 +2576,8 @@ rightKerningGroup = LAT_H_UC_LEFT;
 unicode = 1E24;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -2659,9 +2660,9 @@ rightKerningGroup = LAT_I_UC_LEFT;
 unicode = 0049;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -2703,8 +2704,8 @@ rightKerningGroup = LAT_I_UC_LEFT;
 unicode = 00CD;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -2747,8 +2748,8 @@ rightKerningGroup = LAT_I_UC_LEFT;
 unicode = 00CE;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -2791,8 +2792,8 @@ rightKerningGroup = LAT_I_UC_LEFT;
 unicode = 00CF;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -2835,8 +2836,8 @@ rightKerningGroup = LAT_I_UC_LEFT;
 unicode = 00CC;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -2879,8 +2880,8 @@ rightKerningGroup = LAT_I_UC_LEFT;
 unicode = 012A;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -3083,8 +3084,8 @@ rightKerningGroup = LAT_K_UC_LEFT;
 unicode = 1E32;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -3127,8 +3128,8 @@ rightKerningGroup = LAT_K_UC_LEFT;
 unicode = 1E34;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -3215,9 +3216,9 @@ rightKerningGroup = LAT_L_UC_LEFT;
 unicode = 004C;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -3392,9 +3393,9 @@ width = 460;
 };
 };
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -3520,9 +3521,9 @@ rightKerningGroup = LAT_H_UC_LEFT;
 unicode = 004D;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -3628,9 +3629,9 @@ rightKerningGroup = LAT_H_UC_LEFT;
 unicode = 004E;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -3672,8 +3673,8 @@ rightKerningGroup = LAT_H_UC_LEFT;
 unicode = 00D1;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -3814,9 +3815,9 @@ rightKerningGroup = LAT_O_UC_LEFT;
 unicode = 004F;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -3858,8 +3859,8 @@ rightKerningGroup = LAT_O_UC_LEFT;
 unicode = 00D3;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -3902,8 +3903,8 @@ rightKerningGroup = LAT_O_UC_LEFT;
 unicode = 014E;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -3946,8 +3947,8 @@ rightKerningGroup = LAT_O_UC_LEFT;
 unicode = 00D4;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -4002,8 +4003,8 @@ rightKerningGroup = LAT_O_UC_LEFT;
 unicode = 00D6;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -4046,8 +4047,8 @@ rightKerningGroup = LAT_O_UC_LEFT;
 unicode = 1ECC;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -4090,8 +4091,8 @@ rightKerningGroup = LAT_O_UC_LEFT;
 unicode = 00D2;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -4134,8 +4135,8 @@ rightKerningGroup = LAT_O_UC_LEFT;
 unicode = 014C;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -4213,9 +4214,9 @@ rightKerningGroup = LAT_O_UC_LEFT;
 unicode = 00D8;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -4257,8 +4258,8 @@ rightKerningGroup = LAT_O_UC_LEFT;
 unicode = 00D5;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -4379,9 +4380,9 @@ rightKerningGroup = LAT_E_UC_LEFT;
 unicode = 0152;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -4840,9 +4841,9 @@ rightKerningGroup = LAT_R_UC_LEFT;
 unicode = 0052;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -5023,8 +5024,8 @@ rightKerningGroup = LAT_S_UC_LEFT;
 unicode = 015A;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -5067,8 +5068,8 @@ rightKerningGroup = LAT_S_UC_LEFT;
 unicode = 0160;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -5111,8 +5112,8 @@ rightKerningGroup = LAT_S_UC_LEFT;
 unicode = 1E62;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -5249,9 +5250,9 @@ rightKerningGroup = LAT_O_UC_LEFT;
 unicode = 018F;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -5368,8 +5369,8 @@ rightKerningGroup = LAT_T_UC_LEFT;
 unicode = 1E6C;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -5412,8 +5413,8 @@ rightKerningGroup = LAT_T_UC_LEFT;
 unicode = 1E6E;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -5532,9 +5533,9 @@ rightKerningGroup = LAT_U_UC_LEFT;
 unicode = 0055;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -5576,8 +5577,8 @@ rightKerningGroup = LAT_U_UC_LEFT;
 unicode = 00DA;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -5620,8 +5621,8 @@ rightKerningGroup = LAT_U_UC_LEFT;
 unicode = 00DB;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -5664,8 +5665,8 @@ rightKerningGroup = LAT_U_UC_LEFT;
 unicode = 00DC;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -5708,8 +5709,8 @@ rightKerningGroup = LAT_U_UC_LEFT;
 unicode = 00D9;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -5752,8 +5753,8 @@ rightKerningGroup = LAT_U_UC_LEFT;
 unicode = 016A;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -6103,9 +6104,9 @@ rightKerningGroup = LAT_X_UC_LEFT;
 unicode = 0058;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -6203,9 +6204,9 @@ rightKerningGroup = LAT_Y_UC_LEFT;
 unicode = 0059;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -6247,8 +6248,8 @@ rightKerningGroup = LAT_Y_UC_LEFT;
 unicode = 00DD;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -6291,8 +6292,8 @@ rightKerningGroup = LAT_Y_UC_LEFT;
 unicode = 0178;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -6379,9 +6380,9 @@ rightKerningGroup = LAT_Z_UC_LEFT;
 unicode = 005A;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -6423,8 +6424,8 @@ rightKerningGroup = LAT_Z_UC_LEFT;
 unicode = 017D;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -6467,8 +6468,8 @@ rightKerningGroup = LAT_Z_UC_LEFT;
 unicode = 1E92;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -6511,8 +6512,8 @@ rightKerningGroup = LAT_Z_UC_LEFT;
 unicode = 1E94;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -6669,9 +6670,9 @@ rightKerningGroup = LAT_A_LC_LEFT;
 unicode = 0061;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -6725,8 +6726,8 @@ rightKerningGroup = LAT_A_LC_LEFT;
 unicode = 00E1;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -6769,8 +6770,8 @@ rightKerningGroup = LAT_A_LC_LEFT;
 unicode = 0103;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -6813,8 +6814,8 @@ rightKerningGroup = LAT_A_LC_LEFT;
 unicode = 00E2;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -6869,8 +6870,8 @@ rightKerningGroup = LAT_A_LC_LEFT;
 unicode = 00E4;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -6913,8 +6914,8 @@ rightKerningGroup = LAT_A_LC_LEFT;
 unicode = 1EA1;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -6957,8 +6958,8 @@ rightKerningGroup = LAT_A_LC_LEFT;
 unicode = 00E0;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -7001,8 +7002,8 @@ rightKerningGroup = LAT_A_LC_LEFT;
 unicode = 0101;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -7057,8 +7058,8 @@ rightKerningGroup = LAT_A_LC_LEFT;
 unicode = 00E5;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -7101,8 +7102,8 @@ rightKerningGroup = LAT_A_LC_LEFT;
 unicode = 00E3;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -7460,9 +7461,9 @@ rightKerningGroup = LAT_E_LC_LEFT;
 unicode = 00E6;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -7629,8 +7630,8 @@ rightKerningGroup = LAT_O_LC_LEFT;
 unicode = 1E07;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -7784,8 +7785,8 @@ rightKerningGroup = LAT_C_LC_LEFT;
 unicode = 010D;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -7828,8 +7829,8 @@ rightKerningGroup = LAT_C_LC_LEFT;
 unicode = 00E7;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -7970,9 +7971,9 @@ rightKerningGroup = LAT_D_LC_LEFT;
 unicode = 0064;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -8112,9 +8113,9 @@ rightKerningGroup = LAT_ETH_LC_LEFT;
 unicode = 00F0;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -8156,8 +8157,8 @@ rightKerningGroup = LAT_D_LC_LEFT;
 unicode = 1E0D;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -8200,8 +8201,8 @@ rightKerningGroup = LAT_D_LC_LEFT;
 unicode = 1E0F;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -8621,8 +8622,8 @@ rightKerningGroup = LAT_E_LC_LEFT;
 unicode = 00E9;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -8665,8 +8666,8 @@ rightKerningGroup = LAT_E_LC_LEFT;
 unicode = 0115;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -8709,8 +8710,8 @@ rightKerningGroup = LAT_E_LC_LEFT;
 unicode = 00EA;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -8753,8 +8754,8 @@ rightKerningGroup = LAT_E_LC_LEFT;
 unicode = 00EB;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -8797,8 +8798,8 @@ rightKerningGroup = LAT_E_LC_LEFT;
 unicode = 1EB9;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -8841,8 +8842,8 @@ rightKerningGroup = LAT_E_LC_LEFT;
 unicode = 00E8;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -8885,8 +8886,8 @@ rightKerningGroup = LAT_E_LC_LEFT;
 unicode = 0113;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -9186,9 +9187,9 @@ width = 470;
 unicode = 025B;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -9301,9 +9302,9 @@ leftKerningGroup = LAT_J_LC_RIGHT;
 unicode = 0283;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -9418,9 +9419,9 @@ rightKerningGroup = LAT_EZH_LC_LEFT;
 unicode = 0292;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -9538,9 +9539,9 @@ rightKerningGroup = LAT_F_LC_LEFT;
 unicode = 0066;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -9805,8 +9806,8 @@ rightKerningGroup = LAT_G_LC_LEFT;
 unicode = 01E7;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -9849,8 +9850,8 @@ rightKerningGroup = LAT_G_LC_LEFT;
 unicode = 0121;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -9951,9 +9952,9 @@ width = 460;
 unicode = 0294;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -10053,9 +10054,9 @@ width = 530;
 unicode = 0295;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -10097,8 +10098,8 @@ rightKerningGroup = LAT_G_LC_LEFT;
 unicode = 1E21;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -10207,9 +10208,9 @@ rightKerningGroup = LAT_N_LC_LEFT;
 unicode = 0068;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -10344,8 +10345,8 @@ rightKerningGroup = LAT_N_LC_LEFT;
 unicode = 1E2B;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -10388,8 +10389,8 @@ rightKerningGroup = LAT_N_LC_LEFT;
 unicode = 1E25;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -10433,8 +10434,8 @@ rightKerningGroup = LAT_N_LC_LEFT;
 unicode = 1E96;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -10521,8 +10522,8 @@ rightKerningGroup = LAT_I_LC_LEFT;
 unicode = 0069;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -10605,9 +10606,9 @@ rightKerningGroup = LAT_U_LC_LEFT;
 unicode = 0131;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -10649,8 +10650,8 @@ rightKerningGroup = LAT_I_LC_LEFT;
 unicode = 00ED;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -10693,8 +10694,8 @@ rightKerningGroup = LAT_I_LC_LEFT;
 unicode = 00EE;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -10737,8 +10738,8 @@ rightKerningGroup = LAT_I_LC_LEFT;
 unicode = 00EF;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -10781,8 +10782,8 @@ rightKerningGroup = LAT_I_LC_LEFT;
 unicode = 00EC;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -10825,8 +10826,8 @@ rightKerningGroup = LAT_I_LC_LEFT;
 unicode = 012B;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -10943,8 +10944,8 @@ rightKerningGroup = LAT_J_LC_LEFT;
 unicode = 006A;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -11064,8 +11065,8 @@ rightKerningGroup = LAT_K_LC_LEFT;
 unicode = 1E33;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -11108,8 +11109,8 @@ rightKerningGroup = LAT_K_LC_LEFT;
 unicode = 1E35;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -11216,9 +11217,9 @@ rightKerningGroup = LAT_L_LC_LEFT;
 unicode = 006C;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -11394,7 +11395,7 @@ width = 230;
 com.typemytype.robofont.mark = (
 1,
 0.465,
-0.3000,
+0.3,
 1
 );
 };
@@ -11532,9 +11533,9 @@ rightKerningGroup = LAT_N_LC_LEFT;
 unicode = 006D;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -11642,9 +11643,9 @@ rightKerningGroup = LAT_N_LC_LEFT;
 unicode = 006E;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -11686,8 +11687,8 @@ rightKerningGroup = LAT_N_LC_LEFT;
 unicode = 00F1;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -11828,9 +11829,9 @@ rightKerningGroup = LAT_O_LC_LEFT;
 unicode = 006F;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -11872,8 +11873,8 @@ rightKerningGroup = LAT_O_LC_LEFT;
 unicode = 00F3;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -11916,8 +11917,8 @@ rightKerningGroup = LAT_O_LC_LEFT;
 unicode = 014F;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -11960,8 +11961,8 @@ rightKerningGroup = LAT_O_LC_LEFT;
 unicode = 00F4;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -12016,8 +12017,8 @@ rightKerningGroup = LAT_O_LC_LEFT;
 unicode = 00F6;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -12060,8 +12061,8 @@ rightKerningGroup = LAT_O_LC_LEFT;
 unicode = 1ECD;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -12104,8 +12105,8 @@ rightKerningGroup = LAT_O_LC_LEFT;
 unicode = 00F2;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -12148,8 +12149,8 @@ rightKerningGroup = LAT_O_LC_LEFT;
 unicode = 014D;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -12267,9 +12268,9 @@ rightKerningGroup = LAT_O_LC_LEFT;
 unicode = 0254;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -12411,9 +12412,9 @@ rightKerningGroup = LAT_O_LC_LEFT;
 unicode = 00F8;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -12455,8 +12456,8 @@ rightKerningGroup = LAT_O_LC_LEFT;
 unicode = 00F5;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -12651,9 +12652,9 @@ rightKerningGroup = LAT_E_LC_LEFT;
 unicode = 0153;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -12918,9 +12919,9 @@ rightKerningGroup = LAT_O_LC_LEFT;
 unicode = 00FE;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -13149,9 +13150,9 @@ rightKerningGroup = LAT_R_LC_LEFT;
 unicode = 0072;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -13328,8 +13329,8 @@ rightKerningGroup = LAT_S_LC_LEFT;
 unicode = 015B;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -13372,8 +13373,8 @@ rightKerningGroup = LAT_S_LC_LEFT;
 unicode = 0161;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -13416,8 +13417,8 @@ rightKerningGroup = LAT_S_LC_LEFT;
 unicode = 1E63;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -13673,9 +13674,9 @@ rightKerningGroup = LAT_O_LC_LEFT;
 unicode = 0259;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -13824,8 +13825,8 @@ rightKerningGroup = LAT_T_LC_LEFT;
 unicode = 1E6D;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -13996,9 +13997,9 @@ width = 688;
 unicode = 02A7;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -14040,8 +14041,8 @@ rightKerningGroup = LAT_T_LC_LEFT;
 unicode = 1E6F;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -14166,9 +14167,9 @@ rightKerningGroup = LAT_U_LC_LEFT;
 unicode = 0075;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -14210,8 +14211,8 @@ rightKerningGroup = LAT_U_LC_LEFT;
 unicode = 00FA;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -14254,8 +14255,8 @@ rightKerningGroup = LAT_U_LC_LEFT;
 unicode = 00FB;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -14298,8 +14299,8 @@ rightKerningGroup = LAT_U_LC_LEFT;
 unicode = 00FC;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -14342,8 +14343,8 @@ rightKerningGroup = LAT_U_LC_LEFT;
 unicode = 00F9;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -14386,8 +14387,8 @@ rightKerningGroup = LAT_U_LC_LEFT;
 unicode = 016B;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -14737,9 +14738,9 @@ rightKerningGroup = LAT_X_LC_LEFT;
 unicode = 0078;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -14859,9 +14860,9 @@ rightKerningGroup = LAT_Y_LC_LEFT;
 unicode = 0079;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -14903,8 +14904,8 @@ rightKerningGroup = LAT_Y_LC_LEFT;
 unicode = 00FD;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -14947,8 +14948,8 @@ rightKerningGroup = LAT_Y_LC_LEFT;
 unicode = 00FF;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -15067,9 +15068,9 @@ width = 542;
 unicode = 028E;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -15155,9 +15156,9 @@ rightKerningGroup = LAT_Z_LC_LEFT;
 unicode = 007A;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -15199,8 +15200,8 @@ rightKerningGroup = LAT_Z_LC_LEFT;
 unicode = 017E;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -15243,8 +15244,8 @@ rightKerningGroup = LAT_Z_LC_LEFT;
 unicode = 1E93;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -15287,8 +15288,8 @@ rightKerningGroup = LAT_Z_LC_LEFT;
 unicode = 1E95;
 userData = {
 com.typemytype.robofont.mark = (
-0.7940,
-0.3000,
+0.794,
+0.3,
 1,
 1
 );
@@ -15331,9 +15332,9 @@ rightKerningGroup = LAT_I_LC_LEFT;
 unicode = FB01;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -15375,9 +15376,9 @@ rightKerningGroup = LAT_L_LC_LEFT;
 unicode = FB02;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -15411,9 +15412,9 @@ rightKerningGroup = LAT_ORDFEMININE_LEFT;
 unicode = 00AA;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -15447,9 +15448,9 @@ rightKerningGroup = LAT_ORDFEMININE_LEFT;
 unicode = 00BA;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -21358,9 +21359,9 @@ width = 540;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -21421,9 +21422,9 @@ width = 540;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -21510,9 +21511,9 @@ width = 540;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -21627,9 +21628,9 @@ width = 540;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -21698,9 +21699,9 @@ width = 540;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -21797,9 +21798,9 @@ width = 540;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -21910,9 +21911,9 @@ width = 540;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -21969,9 +21970,9 @@ width = 540;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -22126,9 +22127,9 @@ width = 540;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -22239,9 +22240,9 @@ width = 540;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -23220,9 +23221,9 @@ width = 500;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -23297,9 +23298,9 @@ width = 500;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -23390,9 +23391,9 @@ width = 490;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -23521,9 +23522,9 @@ width = 510;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -23594,9 +23595,9 @@ width = 540;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -23697,9 +23698,9 @@ width = 500;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -23818,9 +23819,9 @@ width = 500;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -23881,9 +23882,9 @@ width = 480;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -24034,9 +24035,9 @@ width = 500;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -24155,9 +24156,9 @@ width = 500;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -24210,9 +24211,9 @@ width = 320;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -24293,9 +24294,9 @@ width = 400;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -24408,9 +24409,9 @@ width = 379;
 );
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
+0.8,
 1,
-0.4000,
+0.4,
 1
 );
 };
@@ -25222,9 +25223,9 @@ width = 320;
 unicode = 00B7;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -25319,9 +25320,9 @@ rightKerningGroup = PCT_COLON_LEFT;
 unicode = 003A;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -25461,9 +25462,9 @@ y = 253;
 }
 );
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -26023,9 +26024,9 @@ rightKerningGroup = PCT_QUOTE_LEFT;
 unicode = 0022;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -26110,9 +26111,9 @@ rightKerningGroup = PCT_COLON_LEFT;
 unicode = 003B;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -28001,9 +28002,9 @@ width = 340;
 unicode = 2010;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -28037,9 +28038,9 @@ rightKerningGroup = PCT_EMDASH_LEFT;
 unicode = 00AD;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -28189,9 +28190,9 @@ rightKerningGroup = PCT_GUILLEFT_LEFT;
 unicode = 00AB;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -28233,9 +28234,9 @@ rightKerningGroup = PCT_GUILRIGHT_LEFT;
 unicode = 00BB;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -28369,9 +28370,9 @@ rightKerningGroup = PCT_COMMA_LEFT;
 unicode = 201E;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -28413,9 +28414,9 @@ rightKerningGroup = PCT_QUOTELEFT_LEFT;
 unicode = 201C;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -28457,9 +28458,9 @@ rightKerningGroup = PCT_QUOTERIGHT_LEFT;
 unicode = 201D;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -28641,9 +28642,9 @@ rightKerningGroup = PCT_COMMA_LEFT;
 unicode = 201A;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -31834,9 +31835,9 @@ width = 540;
 unicode = 2248;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -31939,9 +31940,9 @@ width = 540;
 unicode = 2219;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -32078,9 +32079,9 @@ width = 100;
 unicode = 2215;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -32122,9 +32123,9 @@ width = 540;
 unicode = 003D;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -33085,9 +33086,9 @@ rightKerningGroup = PCT_PERCENT_LEFT;
 unicode = 0025;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -36754,9 +36755,9 @@ width = 0;
 };
 };
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -36892,9 +36893,9 @@ width = 0;
 };
 };
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -37952,9 +37953,9 @@ width = 0;
 };
 };
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -38443,9 +38444,9 @@ width = 0;
 };
 };
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -38926,9 +38927,9 @@ width = 0;
 };
 };
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -39101,9 +39102,9 @@ width = 0;
 };
 };
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -39206,9 +39207,9 @@ width = 0;
 unicode = 0323;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -39758,9 +39759,9 @@ width = 0;
 };
 };
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -39867,9 +39868,9 @@ width = 0;
 };
 };
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -42951,9 +42952,9 @@ width = 320;
 unicode = 02B9;
 userData = {
 com.typemytype.robofont.mark = (
-0.3000,
+0.3,
 1,
-0.5470,
+0.547,
 1
 );
 };
@@ -44999,9 +45000,9 @@ leftKerningGroup = LAT_O_LC_RIGHT;
 rightKerningGroup = LAT_U_LC_LEFT;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -45363,9 +45364,9 @@ width = 546;
 leftKerningGroup = LAT_N_LC_RIGHT;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -45497,9 +45498,9 @@ width = 546;
 rightKerningGroup = LAT_U_LC_LEFT;
 userData = {
 com.typemytype.robofont.mark = (
-0.8000,
-0.8000,
-0.6000,
+0.8,
+0.8,
+0.6,
 1
 );
 };
@@ -46605,13 +46606,12 @@ width = 290;
 );
 }
 );
-disablesNiceNames = 1;
 instances = (
 {
 customParameters = (
 {
 name = weightClass;
-value = "275";
+value = 275;
 }
 );
 instanceInterpolations = {
@@ -53167,7 +53167,7 @@ com.typemytype.robofont.foreground.layerStrokeColor = (
 0.5,
 0,
 0.5,
-0.7000
+0.7
 );
 com.typemytype.robofont.italicSlantOffset = 0;
 com.typemytype.robofont.layerOrder = (
@@ -53177,7 +53177,7 @@ com.typemytype.robofont.mask.layerStrokeColor = (
 1,
 0.75,
 0,
-0.7000
+0.7
 );
 com.typemytype.robofont.segmentType = curve;
 com.typemytype.robofont.shouldAddPointsInSplineConversion = 0;
@@ -58024,7 +58024,620 @@ com.typesupply.MetricsMachine4.groupColors = {
 0.25
 );
 };
-org.unifiedfontobject.normalizer.modTimes = "version: 0a1\0121443733937.0 fontinfo.plist\0121443733935.0 glyphs/A_.glif\0121443733935.0 glyphs/A_E_.glif\0121443733935.0 glyphs/A_acute.glif\0121443733935.0 glyphs/A_breve.glif\0121443733935.0 glyphs/A_circumflex.glif\0121443733935.0 glyphs/A_dieresis.glif\0121443733935.0 glyphs/A_dotbelow.glif\0121443733935.0 glyphs/A_grave.glif\0121443733935.0 glyphs/A_macron.glif\0121443733935.0 glyphs/A_ring.glif\0121443733935.0 glyphs/A_tilde.glif\0121443733935.0 glyphs/B_.glif\0121443733935.0 glyphs/B_linebelow.glif\0121443733935.0 glyphs/C_.glif\0121443733935.0 glyphs/C_caron.glif\0121443733935.0 glyphs/C_cedilla.glif\0121443733935.0 glyphs/D_.glif\0121443733935.0 glyphs/D_dotbelow.glif\0121443733935.0 glyphs/D_elta.math.glif\0121443733935.0 glyphs/D_linebelow.glif\0121443733935.0 glyphs/E_.glif\0121443733935.0 glyphs/E_acute.glif\0121443733935.0 glyphs/E_breve.glif\0121443733935.0 glyphs/E_circumflex.glif\0121443733935.0 glyphs/E_dieresis.glif\0121443733935.0 glyphs/E_dotbelow.glif\0121443733935.0 glyphs/E_grave.glif\0121443733935.0 glyphs/E_macron.glif\0121443733935.0 glyphs/E_ogonek.glif\0121443733935.0 glyphs/E_th.glif\0121443733935.0 glyphs/E_uro.glif\0121443733935.0 glyphs/E_uro.heb.glif\0121443733935.0 glyphs/E_uro.lat.glif\0121443733935.0 glyphs/F_.glif\0121443733935.0 glyphs/G_.glif\0121443733935.0 glyphs/G_caron.glif\0121443733935.0 glyphs/G_dotaccent.glif\0121443733935.0 glyphs/G_macron.glif\0121443733935.0 glyphs/H_.glif\0121443733935.0 glyphs/H_bar.glif\0121443733935.0 glyphs/H_brevebelow.glif\0121443733935.0 glyphs/H_dotbelow.glif\0121443733935.0 glyphs/I_.glif\0121443733935.0 glyphs/I_acute.glif\0121443733935.0 glyphs/I_circumflex.glif\0121443733935.0 glyphs/I_dieresis.glif\0121443733935.0 glyphs/I_grave.glif\0121443733935.0 glyphs/I_macron.glif\0121443733935.0 glyphs/J_.glif\0121443733935.0 glyphs/K_.glif\0121443733935.0 glyphs/K_dotbelow.glif\0121443733935.0 glyphs/K_linebelow.glif\0121443733935.0 glyphs/L_.glif\0121443733935.0 glyphs/L_slash.glif\0121443733935.0 glyphs/M_.glif\0121443733935.0 glyphs/N_.glif\0121443733935.0 glyphs/N_tilde.glif\0121443733935.0 glyphs/O_.glif\0121443733935.0 glyphs/O_E_.glif\0121443733935.0 glyphs/O_acute.glif\0121443733935.0 glyphs/O_breve.glif\0121443733935.0 glyphs/O_circumflex.glif\0121443733935.0 glyphs/O_dieresis.glif\0121443733935.0 glyphs/O_dotbelow.glif\0121443733935.0 glyphs/O_grave.glif\0121443733935.0 glyphs/O_macron.glif\0121443733935.0 glyphs/O_mega.math.glif\0121443733935.0 glyphs/O_slash.glif\0121443733935.0 glyphs/O_tilde.glif\0121443733935.0 glyphs/P_.glif\0121443733935.0 glyphs/Q_.glif\0121443733935.0 glyphs/R_.glif\0121443733935.0 glyphs/S_.glif\0121443733935.0 glyphs/S_acute.glif\0121443733935.0 glyphs/S_caron.glif\0121443733935.0 glyphs/S_chwa.glif\0121443733935.0 glyphs/S_dotbelow.glif\0121443733935.0 glyphs/T_.glif\0121443733935.0 glyphs/T_dotbelow.glif\0121443733935.0 glyphs/T_horn.glif\0121443733935.0 glyphs/T_linebelow.glif\0121443733935.0 glyphs/U_.glif\0121443733935.0 glyphs/U_acute.glif\0121443733935.0 glyphs/U_circumflex.glif\0121443733935.0 glyphs/U_dieresis.glif\0121443733935.0 glyphs/U_grave.glif\0121443733935.0 glyphs/U_macron.glif\0121443733935.0 glyphs/V_.glif\0121443733935.0 glyphs/V_dotbelow.glif\0121443733935.0 glyphs/W_.glif\0121443733935.0 glyphs/X_.glif\0121443733935.0 glyphs/Y_.glif\0121443733935.0 glyphs/Y_acute.glif\0121443733935.0 glyphs/Y_dieresis.glif\0121443733935.0 glyphs/Z_.glif\0121443733935.0 glyphs/Z_W_J_.glif\0121443733935.0 glyphs/Z_W_N_J_.glif\0121443733935.0 glyphs/Z_caron.glif\0121443733935.0 glyphs/Z_dotbelow.glif\0121443733935.0 glyphs/Z_linebelow.glif\0121443733935.0 glyphs/_notdef.glif\0121443733935.0 glyphs/a.glif\0121443733935.0 glyphs/a.sups.glif\0121443733935.0 glyphs/aacute.glif\0121443733935.0 glyphs/abreve.glif\0121443733935.0 glyphs/acircumflex.glif\0121443733935.0 glyphs/acute.glif\0121443733935.0 glyphs/acutecmb.cap.glif\0121443733935.0 glyphs/acutecmb.glif\0121443733935.0 glyphs/adieresis.glif\0121443733935.0 glyphs/adotbelow.glif\0121443733935.0 glyphs/ae.glif\0121443733935.0 glyphs/agrave.glif\0121443733935.0 glyphs/alphalatin.glif\0121443733935.0 glyphs/amacron.glif\0121443733935.0 glyphs/ampersand.glif\0121443733935.0 glyphs/ampersand.heb.glif\0121443733935.0 glyphs/ampersand.lat.glif\0121443733935.0 glyphs/approxequal.glif\0121443733935.0 glyphs/aring.glif\0121443733935.0 glyphs/asciicircum.glif\0121443733935.0 glyphs/asciicircum.lat.glif\0121443733935.0 glyphs/asciitilde.glif\0121443733935.0 glyphs/asterisk.glif\0121443733935.0 glyphs/asterisk.lat.glif\0121443733935.0 glyphs/at.glif\0121443733935.0 glyphs/at.lat.glif\0121443733935.0 glyphs/atilde.glif\0121443733935.0 glyphs/aturned.glif\0121443733935.0 glyphs/b.glif\0121443733935.0 glyphs/backslash.glif\0121443733935.0 glyphs/backslash.lat.glif\0121443733935.0 glyphs/bar.glif\0121443733935.0 glyphs/blinebelow.glif\0121443733935.0 glyphs/braceleft.glif\0121443733935.0 glyphs/braceleft.lat.glif\0121443733935.0 glyphs/braceright.glif\0121443733935.0 glyphs/braceright.lat.glif\0121443733935.0 glyphs/bracketleft.glif\0121443733935.0 glyphs/bracketleft.lat.glif\0121443733935.0 glyphs/bracketright.glif\0121443733935.0 glyphs/bracketright.lat.glif\0121443733935.0 glyphs/breve.glif\0121443733935.0 glyphs/brevebelowcmb.glif\0121443733935.0 glyphs/brevecmb.cap.glif\0121443733935.0 glyphs/brevecmb.glif\0121443733935.0 glyphs/breveinverteddoublecmb.glif\0121443733935.0 glyphs/brokenbar.glif\0121443733935.0 glyphs/bullet.glif\0121443733935.0 glyphs/bullet.lat.glif\0121443733935.0 glyphs/bulletoperator.glif\0121443733935.0 glyphs/c.glif\0121443733935.0 glyphs/caron.glif\0121443733935.0 glyphs/caroncmb.cap.glif\0121443733935.0 glyphs/caroncmb.glif\0121443733935.0 glyphs/ccaron.glif\0121443733935.0 glyphs/ccedilla.glif\0121443733935.0 glyphs/cedilla.glif\0121443733935.0 glyphs/cedillacmb.glif\0121443733935.0 glyphs/cent.glif\0121443733935.0 glyphs/cent.heb.glif\0121443733935.0 glyphs/cent.lat.glif\0121443733935.0 glyphs/chi.glif\0121443733935.0 glyphs/circledotted.glif\0121443733935.0 glyphs/circumflex.glif\0121443733935.0 glyphs/circumflexcmb.cap.glif\0121443733935.0 glyphs/circumflexcmb.glif\0121443733935.0 glyphs/colon.glif\0121443733935.0 glyphs/colontriangularmod.glif\0121443733935.0 glyphs/comma.glif\0121443733935.0 glyphs/copyright.glif\0121443733935.0 glyphs/copyright.lat.glif\0121443733935.0 glyphs/currency.glif\0121443733935.0 glyphs/d.glif\0121443733935.0 glyphs/dagger.glif\0121443733935.0 glyphs/dagger.lat.glif\0121443733935.0 glyphs/daggerdbl.glif\0121443733935.0 glyphs/daggerdbl.lat.glif\0121443733935.0 glyphs/ddotbelow.glif\0121443733935.0 glyphs/degree.glif\0121443733935.0 glyphs/degree.lat.glif\0121443733935.0 glyphs/dezh.glif\0121443733935.0 glyphs/dieresis.glif\0121443733935.0 glyphs/dieresiscmb.cap.glif\0121443733935.0 glyphs/dieresiscmb.glif\0121443733935.0 glyphs/divide.glif\0121443733935.0 glyphs/divisionslash.glif\0121443733935.0 glyphs/divisionslash.lat.glif\0121443733935.0 glyphs/dlinebelow.glif\0121443733935.0 glyphs/dollar.glif\0121443733935.0 glyphs/dollar.heb.glif\0121443733935.0 glyphs/dollar.lat.glif\0121443733935.0 glyphs/dotaccent.glif\0121443733935.0 glyphs/dotaccentcmb.cap.glif\0121443733935.0 glyphs/dotaccentcmb.glif\0121443733935.0 glyphs/dotbelowcmb.glif\0121443733935.0 glyphs/dotlessi.glif\0121443733935.0 glyphs/downtackbelowcmb.glif\0121443733935.0 glyphs/e.glif\0121443733935.0 glyphs/e.sups.glif\0121443733935.0 glyphs/eacute.glif\0121443733935.0 glyphs/ebreve.glif\0121443733935.0 glyphs/ecircumflex.glif\0121443733935.0 glyphs/edieresis.glif\0121443733935.0 glyphs/edotbelow.glif\0121443733936.0 glyphs/egrave.glif\0121443733936.0 glyphs/eight.glif\0121443733936.0 glyphs/eight.heb.glif\0121443733936.0 glyphs/eight.lat.glif\0121443733936.0 glyphs/eight.pnumheb.glif\0121443733936.0 glyphs/eight.pnumlat.glif\0121443735077.0 glyphs/ellipsis.glif\0121443733936.0 glyphs/emacron.glif\0121443733936.0 glyphs/emdash.glif\0121443733936.0 glyphs/emdash.lat.glif\0121443733936.0 glyphs/endash.glif\0121443733936.0 glyphs/endash.lat.glif\0121443733936.0 glyphs/eogonek.glif\0121443733936.0 glyphs/eogonek.sups.glif\0121443733936.0 glyphs/eopen.glif\0121443733936.0 glyphs/equal.glif\0121443733936.0 glyphs/esh.glif\0121443733936.0 glyphs/estimated.glif\0121443733936.0 glyphs/eth.glif\0121443733936.0 glyphs/exclam.glif\0121443733936.0 glyphs/exclam.lat.glif\0121443733936.0 glyphs/exclamdown.glif\0121443733936.0 glyphs/exclamdown.lat.glif\0121443733936.0 glyphs/ezh.glif\0121443733936.0 glyphs/f.glif\0121443733936.0 glyphs/fi.glif\0121443733936.0 glyphs/five.glif\0121443733936.0 glyphs/five.heb.glif\0121443733936.0 glyphs/five.lat.glif\0121443733936.0 glyphs/five.pnumheb.glif\0121443733936.0 glyphs/five.pnumlat.glif\0121443733936.0 glyphs/fl.glif\0121443733936.0 glyphs/florin.glif\0121443733936.0 glyphs/florin.heb.glif\0121443733936.0 glyphs/florin.lat.glif\0121443733936.0 glyphs/four.glif\0121443733936.0 glyphs/four.heb.glif\0121443733936.0 glyphs/four.lat.glif\0121443733936.0 glyphs/four.pnumheb.glif\0121443733936.0 glyphs/four.pnumlat.glif\0121443733936.0 glyphs/fraction.glif\0121443733936.0 glyphs/fraction.lat.glif\0121443733936.0 glyphs/g.glif\0121443733936.0 glyphs/gammalatin.glif\0121443733936.0 glyphs/gcaron.glif\0121443733936.0 glyphs/gdotaccent.glif\0121443733936.0 glyphs/germandbls.glif\0121443733936.0 glyphs/glottalstop.glif\0121443733936.0 glyphs/glottalstopreversed.glif\0121443733936.0 glyphs/glottalstopreversedsupmod.glif\0121443733936.0 glyphs/gmacron.glif\0121443733936.0 glyphs/grave.glif\0121443733936.0 glyphs/gravecmb.cap.glif\0121443733936.0 glyphs/gravecmb.glif\0121443733936.0 glyphs/greater.glif\0121443733936.0 glyphs/greaterequal.glif\0121443733936.0 glyphs/gscript.glif\0121443733936.0 glyphs/guillemotleft.glif\0121443733936.0 glyphs/guillemotleft.lat.glif\0121443733936.0 glyphs/guillemotright.glif\0121443733936.0 glyphs/guillemotright.lat.glif\0121443733936.0 glyphs/guilsinglleft.glif\0121443733936.0 glyphs/guilsinglleft.lat.glif\0121443733936.0 glyphs/guilsinglright.glif\0121443733936.0 glyphs/guilsinglright.lat.glif\0121443733936.0 glyphs/h.glif\0121443733936.0 glyphs/hbar.glif\0121443733936.0 glyphs/hbrevebelow.glif\0121443733936.0 glyphs/hdotbelow.glif\0121443733936.0 glyphs/heA_lef.glif\0121443733936.0 glyphs/heA_lefL_amed.glif\0121443733936.0 glyphs/heA_lefM_apiq.glif\0121443733936.0 glyphs/heA_lefP_atah.glif\0121443733936.0 glyphs/heA_lefQ_amats.glif\0121443733936.0 glyphs/heA_lefW_ide.glif\0121443733936.0 glyphs/heA_yin.glif\0121443733936.0 glyphs/heB_et.glif\0121443733936.0 glyphs/heB_etD_agesh.glif\0121443733936.0 glyphs/heB_etR_afe.glif\0121443733936.0 glyphs/heD_agesh.glif\0121443733936.0 glyphs/heD_agesh.shin.glif\0121443733936.0 glyphs/heD_alet.glif\0121443733936.0 glyphs/heD_aletD_agesh.glif\0121443733936.0 glyphs/heD_aletW_ide.glif\0121443733936.0 glyphs/heG_eresh.glif\0121443733936.0 glyphs/heG_ershayim.glif\0121443733936.0 glyphs/heG_imel.glif\0121443733936.0 glyphs/heG_imelD_agesh.glif\0121443733936.0 glyphs/heH_atafP_atah.glif\0121443733936.0 glyphs/heH_atafQ_amats.glif\0121443733936.0 glyphs/heH_atafQ_amatsQ_atan.glif\0121443733936.0 glyphs/heH_atafS_egol.glif\0121443733936.0 glyphs/heH_e.glif\0121443733936.0 glyphs/heH_eM_apiq.glif\0121443733936.0 glyphs/heH_eW_ide.glif\0121443733936.0 glyphs/heH_et.glif\0121443733936.0 glyphs/heH_iriq.glif\0121443733936.0 glyphs/heH_olam.glif\0121443733936.0 glyphs/heH_olamH_aser.glif\0121443733936.0 glyphs/heK_af.glif\0121443733936.0 glyphs/heK_afD_agesh.glif\0121443733936.0 glyphs/heK_afD_ageshF_in.glif\0121443733936.0 glyphs/heK_afF_in.glif\0121443733936.0 glyphs/heK_afR_afe.glif\0121443733936.0 glyphs/heK_afW_ide.glif\0121443733936.0 glyphs/heL_amed.glif\0121443733936.0 glyphs/heL_amedD_agesh.glif\0121443733936.0 glyphs/heL_amedW_ide.glif\0121443733936.0 glyphs/heM_aqaf.glif\0121443733936.0 glyphs/heM_em.glif\0121443733936.0 glyphs/heM_emD_agesh.glif\0121443733936.0 glyphs/heM_emF_in.glif\0121443733936.0 glyphs/heM_emF_inW_ide.glif\0121443733936.0 glyphs/heM_eteg.glif\0121443733936.0 glyphs/heN_un.glif\0121443733936.0 glyphs/heN_unD_agesh.glif\0121443733936.0 glyphs/heN_unF_in.glif\0121443733936.0 glyphs/heP_aseq.glif\0121443733936.0 glyphs/heP_atah.glif\0121443733936.0 glyphs/heP_atah.short.glif\0121443733936.0 glyphs/heP_e.glif\0121443733936.0 glyphs/heP_eD_agesh.glif\0121443733936.0 glyphs/heP_eD_ageshF_in.glif\0121443733936.0 glyphs/heP_eF_in.glif\0121443733936.0 glyphs/heP_eR_afe.glif\0121443733936.0 glyphs/heQ_amats.glif\0121443733936.0 glyphs/heQ_amats.kaf.glif\0121443733936.0 glyphs/heQ_amats.short.glif\0121443733936.0 glyphs/heQ_amatsQ_atan.glif\0121443733936.0 glyphs/heQ_amatsQ_atan.short.glif\0121443733936.0 glyphs/heQ_of.glif\0121443733936.0 glyphs/heQ_ofD_agesh.glif\0121443733936.0 glyphs/heQ_ubuts.glif\0121443733936.0 glyphs/heR_afe.glif\0121443733936.0 glyphs/heR_esh.glif\0121443733936.0 glyphs/heR_eshD_agesh.glif\0121443733936.0 glyphs/heR_eshW_ide.glif\0121443733936.0 glyphs/heS_amekh.glif\0121443733936.0 glyphs/heS_amekhD_agesh.glif\0121443733936.0 glyphs/heS_egol.glif\0121443733936.0 glyphs/heS_heva.glif\0121443733936.0 glyphs/heS_heva.kaf.glif\0121443733936.0 glyphs/heS_hin.glif\0121443733936.0 glyphs/heS_hinD_agesh.glif\0121443733936.0 glyphs/heS_hinD_ageshD_otted.glif\0121443733936.0 glyphs/heS_hinD_ot.glif\0121443733936.0 glyphs/heS_hinD_otted.glif\0121443733936.0 glyphs/heS_inD_ageshD_otted.glif\0121443733936.0 glyphs/heS_inD_ot.glif\0121443733936.0 glyphs/heS_inD_otted.glif\0121443733936.0 glyphs/heS_ofP_asuq.glif\0121443733936.0 glyphs/heT_av.glif\0121443733936.0 glyphs/heT_avD_agesh.glif\0121443733936.0 glyphs/heT_avW_ide.glif\0121443733936.0 glyphs/heT_et.glif\0121443733936.0 glyphs/heT_etD_agesh.glif\0121443733936.0 glyphs/heT_sadi.glif\0121443733936.0 glyphs/heT_sadiD_agesh.glif\0121443733936.0 glyphs/heT_sadiF_in.glif\0121443733936.0 glyphs/heT_sere.glif\0121443733936.0 glyphs/heV_arikaJ_ud.glif\0121443733936.0 glyphs/heV_av.glif\0121443733936.0 glyphs/heV_avD_agesh.glif\0121443733936.0 glyphs/heV_avD_blY_id.glif\0121443733936.0 glyphs/heV_avH_olam.glif\0121443733936.0 glyphs/heV_avY_odY_id.glif\0121443733936.0 glyphs/heY_od.glif\0121443733936.0 glyphs/heY_odD_agesh.glif\0121443733936.0 glyphs/heY_odD_blY_id.glif\0121443733936.0 glyphs/heY_odD_blY_idP_atah.glif\0121443733936.0 glyphs/heY_odH_iriq.glif\0121443733936.0 glyphs/heZ_ayin.glif\0121443733936.0 glyphs/heZ_ayinD_agesh.glif\0121443733936.0 glyphs/hlinebelow.glif\0121443733936.0 glyphs/hungarumlaut.glif\0121443733936.0 glyphs/hungarumlautcmb.cap.glif\0121443733936.0 glyphs/hungarumlautcmb.glif\0121443733936.0 glyphs/hyphen.glif\0121443733936.0 glyphs/hyphentwo.glif\0121443733936.0 glyphs/hyphentwo.lat.glif\0121443733936.0 glyphs/i.glif\0121443733936.0 glyphs/iacute.glif\0121443733936.0 glyphs/icircumflex.glif\0121443733936.0 glyphs/idieresis.glif\0121443733936.0 glyphs/igrave.glif\0121443733936.0 glyphs/imacron.glif\0121443733936.0 glyphs/infinity.glif\0121443733936.0 glyphs/integral.glif\0121443733936.0 glyphs/ismall.glif\0121443733936.0 glyphs/j.glif\0121443733936.0 glyphs/j.sups.glif\0121443733936.0 glyphs/k.glif\0121443733936.0 glyphs/kdotbelow.glif\0121443733936.0 glyphs/klinebelow.glif\0121443733936.0 glyphs/l.glif\0121443733936.0 glyphs/lefttorightembed.glif\0121443733936.0 glyphs/lefttorightmark.glif\0121443733936.0 glyphs/lefttorightoverride.glif\0121443733936.0 glyphs/less.glif\0121443733936.0 glyphs/lessequal.glif\0121443733936.0 glyphs/litre.glif\0121443733936.0 glyphs/lmiddletilde.glif\0121443733936.0 glyphs/logicalnot.glif\0121443733936.0 glyphs/lozenge.glif\0121443733936.0 glyphs/lslash.glif\0121443733936.0 glyphs/m.glif\0121443733936.0 glyphs/macron.glif\0121443733936.0 glyphs/macronbelowcmb.glif\0121443733936.0 glyphs/macroncmb.cap.glif\0121443733936.0 glyphs/macroncmb.glif\0121443733936.0 glyphs/minus.glif\0121443733936.0 glyphs/mu.math.glif\0121443733936.0 glyphs/multiply.glif\0121443733936.0 glyphs/n.glif\0121443733936.0 glyphs/nbspace.glif\0121443733936.0 glyphs/newsheqel.glif\0121443733936.0 glyphs/newsheqel.heb.glif\0121443733936.0 glyphs/newsheqel.lat.glif\0121443733936.0 glyphs/nine.glif\0121443733936.0 glyphs/nine.heb.glif\0121443733936.0 glyphs/nine.lat.glif\0121443733936.0 glyphs/nine.pnumheb.glif\0121443733936.0 glyphs/nine.pnumlat.glif\0121443733936.0 glyphs/notequal.glif\0121443733936.0 glyphs/ntilde.glif\0121443733936.0 glyphs/numbersign.glif\0121443733936.0 glyphs/numbersign.heb.glif\0121443733936.0 glyphs/numbersign.lat.glif\0121443733936.0 glyphs/o.glif\0121443733936.0 glyphs/o.sups.glif\0121443733936.0 glyphs/oacute.glif\0121443733936.0 glyphs/obreve.glif\0121443733936.0 glyphs/ocircumflex.glif\0121443733936.0 glyphs/odieresis.glif\0121443733936.0 glyphs/odotbelow.glif\0121443733936.0 glyphs/oe.glif\0121443733936.0 glyphs/ogonek.glif\0121443733936.0 glyphs/ograve.glif\0121443733936.0 glyphs/omacron.glif\0121443733936.0 glyphs/one.glif\0121443733936.0 glyphs/one.heb.glif\0121443733936.0 glyphs/one.lat.glif\0121443733936.0 glyphs/one.pnumheb.glif\0121443733936.0 glyphs/one.pnumlat.glif\0121443733936.0 glyphs/one.sups.glif\0121443733936.0 glyphs/one.supsheb.glif\0121443733937.0 glyphs/one.supslat.glif\0121443733937.0 glyphs/onehalf.glif\0121443733937.0 glyphs/onehalf.heb.glif\0121443733937.0 glyphs/onehalf.lat.glif\0121443733937.0 glyphs/onequarter.glif\0121443733937.0 glyphs/onequarter.heb.glif\0121443733937.0 glyphs/onequarter.lat.glif\0121443733937.0 glyphs/oopen.glif\0121443733937.0 glyphs/ordfeminine.glif\0121443733937.0 glyphs/ordmasculine.glif\0121443733937.0 glyphs/oslash.glif\0121443733937.0 glyphs/otilde.glif\0121443733937.0 glyphs/p.glif\0121443733937.0 glyphs/paragraph.glif\0121443733937.0 glyphs/paragraph.lat.glif\0121443733937.0 glyphs/parenleft.glif\0121443733937.0 glyphs/parenleft.lat.glif\0121443733937.0 glyphs/parenright.glif\0121443733937.0 glyphs/parenright.lat.glif\0121443733937.0 glyphs/partialdiff.glif\0121443733937.0 glyphs/percent.glif\0121443733937.0 glyphs/percent.heb.glif\0121443733937.0 glyphs/percent.lat.glif\0121443733937.0 glyphs/period.glif\0121443733937.0 glyphs/periodcentered.glif\0121443733937.0 glyphs/periodcentered.lat.glif\0121443733937.0 glyphs/perthousand.glif\0121443733937.0 glyphs/perthousand.heb.glif\0121443733937.0 glyphs/perthousand.lat.glif\0121443733937.0 glyphs/pi.glif\0121443733937.0 glyphs/plus.glif\0121443733937.0 glyphs/plusminus.glif\0121443733937.0 glyphs/popdirectionformat.glif\0121443733937.0 glyphs/primemod.glif\0121443733937.0 glyphs/product.glif\0121443733937.0 glyphs/q.glif\0121443733937.0 glyphs/question.glif\0121443733937.0 glyphs/question.lat.glif\0121443733937.0 glyphs/questiondown.glif\0121443733937.0 glyphs/questiondown.lat.glif\0121443733937.0 glyphs/quotedbl.glif\0121443733937.0 glyphs/quotedbl.lat.glif\0121443733937.0 glyphs/quotedblbase.glif\0121443733937.0 glyphs/quotedblbase.lat.glif\0121443733937.0 glyphs/quotedblleft.glif\0121443733937.0 glyphs/quotedblleft.lat.glif\0121443733937.0 glyphs/quotedblright.glif\0121443733937.0 glyphs/quotedblright.lat.glif\0121443733937.0 glyphs/quoteleft.glif\0121443733937.0 glyphs/quoteleft.lat.glif\0121443733937.0 glyphs/quoteright.glif\0121443733937.0 glyphs/quoteright.lat.glif\0121443733937.0 glyphs/quotesinglbase.glif\0121443733937.0 glyphs/quotesinglbase.lat.glif\0121443733937.0 glyphs/quotesingle.glif\0121443733937.0 glyphs/quotesingle.lat.glif\0121443733937.0 glyphs/r.glif\0121443733937.0 glyphs/radical.glif\0121443733937.0 glyphs/registered.glif\0121443733937.0 glyphs/registered.lat.glif\0121443733937.0 glyphs/righttoleftembed.glif\0121443733937.0 glyphs/righttoleftmark.glif\0121443733937.0 glyphs/righttoleftoverride.glif\0121443733937.0 glyphs/ring.glif\0121443733937.0 glyphs/ringcmb.cap.glif\0121443733937.0 glyphs/ringcmb.glif\0121443733937.0 glyphs/ringhalfleftmod.glif\0121443733937.0 glyphs/ringhalfrightmod.glif\0121443733937.0 glyphs/rsmall.glif\0121443733937.0 glyphs/rsmallinverted.glif\0121443733937.0 glyphs/s.glif\0121443733937.0 glyphs/sacute.glif\0121443733937.0 glyphs/scaron.glif\0121443733937.0 glyphs/schwa.glif\0121443733937.0 glyphs/sdotbelow.glif\0121443733937.0 glyphs/section.glif\0121443733937.0 glyphs/section.lat.glif\0121443733937.0 glyphs/semicolon.glif\0121443733937.0 glyphs/seven.glif\0121443733937.0 glyphs/seven.heb.glif\0121443733937.0 glyphs/seven.lat.glif\0121443733937.0 glyphs/seven.pnumheb.glif\0121443733937.0 glyphs/seven.pnumlat.glif\0121443733937.0 glyphs/sfthyphen.glif\0121443733937.0 glyphs/six.glif\0121443733937.0 glyphs/six.heb.glif\0121443733937.0 glyphs/six.lat.glif\0121443733937.0 glyphs/six.pnumheb.glif\0121443733937.0 glyphs/six.pnumlat.glif\0121443733937.0 glyphs/slash.glif\0121443733937.0 glyphs/slash.lat.glif\0121443733937.0 glyphs/space.glif\0121443733937.0 glyphs/sterling.glif\0121443733937.0 glyphs/sterling.heb.glif\0121443733937.0 glyphs/sterling.lat.glif\0121443733937.0 glyphs/summation.glif\0121443733937.0 glyphs/t.glif\0121443733937.0 glyphs/tdotbelow.glif\0121443733937.0 glyphs/tesh.glif\0121443733937.0 glyphs/theta.glif\0121443733937.0 glyphs/thorn.glif\0121443733937.0 glyphs/three.glif\0121443733937.0 glyphs/three.heb.glif\0121443733937.0 glyphs/three.lat.glif\0121443733937.0 glyphs/three.pnumheb.glif\0121443733937.0 glyphs/three.pnumlat.glif\0121443733937.0 glyphs/three.sups.glif\0121443733937.0 glyphs/three.supsheb.glif\0121443733937.0 glyphs/three.supslat.glif\0121443733937.0 glyphs/threequarters.glif\0121443733937.0 glyphs/threequarters.heb.glif\0121443733937.0 glyphs/threequarters.lat.glif\0121443733937.0 glyphs/tilde.glif\0121443733937.0 glyphs/tildecmb.cap.glif\0121443733937.0 glyphs/tildecmb.glif\0121443733937.0 glyphs/tlinebelow.glif\0121443733937.0 glyphs/trademark.glif\0121443733937.0 glyphs/trademark.lat.glif\0121443733937.0 glyphs/ts.glif\0121443733937.0 glyphs/two.glif\0121443733937.0 glyphs/two.heb.glif\0121443733937.0 glyphs/two.lat.glif\0121443733937.0 glyphs/two.pnumheb.glif\0121443733937.0 glyphs/two.pnumlat.glif\0121443733937.0 glyphs/two.sups.glif\0121443733937.0 glyphs/two.supsheb.glif\0121443733937.0 glyphs/two.supslat.glif\0121443733937.0 glyphs/u.glif\0121443733937.0 glyphs/uacute.glif\0121443733937.0 glyphs/ucircumflex.glif\0121443733937.0 glyphs/udieresis.glif\0121443733937.0 glyphs/ugrave.glif\0121443733937.0 glyphs/umacron.glif\0121443733937.0 glyphs/underscore.glif\0121443733937.0 glyphs/upsilonlatin.glif\0121443733937.0 glyphs/v.glif\0121443733937.0 glyphs/vdotbelow.glif\0121443733937.0 glyphs/verticallinemod.glif\0121443733937.0 glyphs/w.glif\0121443733937.0 glyphs/x.glif\0121443733937.0 glyphs/y.glif\0121443733937.0 glyphs/yacute.glif\0121443733937.0 glyphs/ydieresis.glif\0121443733937.0 glyphs/yen.glif\0121443733937.0 glyphs/yen.heb.glif\0121443733937.0 glyphs/yen.lat.glif\0121443733937.0 glyphs/yturned.glif\0121443733937.0 glyphs/z.glif\0121443733937.0 glyphs/zcaron.glif\0121443733937.0 glyphs/zdotbelow.glif\0121443733937.0 glyphs/zero.glif\0121443733937.0 glyphs/zero.heb.glif\0121443733937.0 glyphs/zero.lat.glif\0121443733937.0 glyphs/zero.pnumheb.glif\0121443733937.0 glyphs/zero.pnumlat.glif\0121443733937.0 glyphs/zero.slash.glif\0121443733937.0 glyphs/zero.slashpnum.glif\0121443733937.0 glyphs/zlinebelow.glif\0121443733937.0 groups.plist\0121443733937.0 kerning.plist\0121443733937.0 metainfo.plist";
+org.unifiedfontobject.normalizer.modTimes = "version: 0a1
+1443733937.0 fontinfo.plist
+1443733935.0 glyphs/A_.glif
+1443733935.0 glyphs/A_E_.glif
+1443733935.0 glyphs/A_acute.glif
+1443733935.0 glyphs/A_breve.glif
+1443733935.0 glyphs/A_circumflex.glif
+1443733935.0 glyphs/A_dieresis.glif
+1443733935.0 glyphs/A_dotbelow.glif
+1443733935.0 glyphs/A_grave.glif
+1443733935.0 glyphs/A_macron.glif
+1443733935.0 glyphs/A_ring.glif
+1443733935.0 glyphs/A_tilde.glif
+1443733935.0 glyphs/B_.glif
+1443733935.0 glyphs/B_linebelow.glif
+1443733935.0 glyphs/C_.glif
+1443733935.0 glyphs/C_caron.glif
+1443733935.0 glyphs/C_cedilla.glif
+1443733935.0 glyphs/D_.glif
+1443733935.0 glyphs/D_dotbelow.glif
+1443733935.0 glyphs/D_elta.math.glif
+1443733935.0 glyphs/D_linebelow.glif
+1443733935.0 glyphs/E_.glif
+1443733935.0 glyphs/E_acute.glif
+1443733935.0 glyphs/E_breve.glif
+1443733935.0 glyphs/E_circumflex.glif
+1443733935.0 glyphs/E_dieresis.glif
+1443733935.0 glyphs/E_dotbelow.glif
+1443733935.0 glyphs/E_grave.glif
+1443733935.0 glyphs/E_macron.glif
+1443733935.0 glyphs/E_ogonek.glif
+1443733935.0 glyphs/E_th.glif
+1443733935.0 glyphs/E_uro.glif
+1443733935.0 glyphs/E_uro.heb.glif
+1443733935.0 glyphs/E_uro.lat.glif
+1443733935.0 glyphs/F_.glif
+1443733935.0 glyphs/G_.glif
+1443733935.0 glyphs/G_caron.glif
+1443733935.0 glyphs/G_dotaccent.glif
+1443733935.0 glyphs/G_macron.glif
+1443733935.0 glyphs/H_.glif
+1443733935.0 glyphs/H_bar.glif
+1443733935.0 glyphs/H_brevebelow.glif
+1443733935.0 glyphs/H_dotbelow.glif
+1443733935.0 glyphs/I_.glif
+1443733935.0 glyphs/I_acute.glif
+1443733935.0 glyphs/I_circumflex.glif
+1443733935.0 glyphs/I_dieresis.glif
+1443733935.0 glyphs/I_grave.glif
+1443733935.0 glyphs/I_macron.glif
+1443733935.0 glyphs/J_.glif
+1443733935.0 glyphs/K_.glif
+1443733935.0 glyphs/K_dotbelow.glif
+1443733935.0 glyphs/K_linebelow.glif
+1443733935.0 glyphs/L_.glif
+1443733935.0 glyphs/L_slash.glif
+1443733935.0 glyphs/M_.glif
+1443733935.0 glyphs/N_.glif
+1443733935.0 glyphs/N_tilde.glif
+1443733935.0 glyphs/O_.glif
+1443733935.0 glyphs/O_E_.glif
+1443733935.0 glyphs/O_acute.glif
+1443733935.0 glyphs/O_breve.glif
+1443733935.0 glyphs/O_circumflex.glif
+1443733935.0 glyphs/O_dieresis.glif
+1443733935.0 glyphs/O_dotbelow.glif
+1443733935.0 glyphs/O_grave.glif
+1443733935.0 glyphs/O_macron.glif
+1443733935.0 glyphs/O_mega.math.glif
+1443733935.0 glyphs/O_slash.glif
+1443733935.0 glyphs/O_tilde.glif
+1443733935.0 glyphs/P_.glif
+1443733935.0 glyphs/Q_.glif
+1443733935.0 glyphs/R_.glif
+1443733935.0 glyphs/S_.glif
+1443733935.0 glyphs/S_acute.glif
+1443733935.0 glyphs/S_caron.glif
+1443733935.0 glyphs/S_chwa.glif
+1443733935.0 glyphs/S_dotbelow.glif
+1443733935.0 glyphs/T_.glif
+1443733935.0 glyphs/T_dotbelow.glif
+1443733935.0 glyphs/T_horn.glif
+1443733935.0 glyphs/T_linebelow.glif
+1443733935.0 glyphs/U_.glif
+1443733935.0 glyphs/U_acute.glif
+1443733935.0 glyphs/U_circumflex.glif
+1443733935.0 glyphs/U_dieresis.glif
+1443733935.0 glyphs/U_grave.glif
+1443733935.0 glyphs/U_macron.glif
+1443733935.0 glyphs/V_.glif
+1443733935.0 glyphs/V_dotbelow.glif
+1443733935.0 glyphs/W_.glif
+1443733935.0 glyphs/X_.glif
+1443733935.0 glyphs/Y_.glif
+1443733935.0 glyphs/Y_acute.glif
+1443733935.0 glyphs/Y_dieresis.glif
+1443733935.0 glyphs/Z_.glif
+1443733935.0 glyphs/Z_W_J_.glif
+1443733935.0 glyphs/Z_W_N_J_.glif
+1443733935.0 glyphs/Z_caron.glif
+1443733935.0 glyphs/Z_dotbelow.glif
+1443733935.0 glyphs/Z_linebelow.glif
+1443733935.0 glyphs/_notdef.glif
+1443733935.0 glyphs/a.glif
+1443733935.0 glyphs/a.sups.glif
+1443733935.0 glyphs/aacute.glif
+1443733935.0 glyphs/abreve.glif
+1443733935.0 glyphs/acircumflex.glif
+1443733935.0 glyphs/acute.glif
+1443733935.0 glyphs/acutecmb.cap.glif
+1443733935.0 glyphs/acutecmb.glif
+1443733935.0 glyphs/adieresis.glif
+1443733935.0 glyphs/adotbelow.glif
+1443733935.0 glyphs/ae.glif
+1443733935.0 glyphs/agrave.glif
+1443733935.0 glyphs/alphalatin.glif
+1443733935.0 glyphs/amacron.glif
+1443733935.0 glyphs/ampersand.glif
+1443733935.0 glyphs/ampersand.heb.glif
+1443733935.0 glyphs/ampersand.lat.glif
+1443733935.0 glyphs/approxequal.glif
+1443733935.0 glyphs/aring.glif
+1443733935.0 glyphs/asciicircum.glif
+1443733935.0 glyphs/asciicircum.lat.glif
+1443733935.0 glyphs/asciitilde.glif
+1443733935.0 glyphs/asterisk.glif
+1443733935.0 glyphs/asterisk.lat.glif
+1443733935.0 glyphs/at.glif
+1443733935.0 glyphs/at.lat.glif
+1443733935.0 glyphs/atilde.glif
+1443733935.0 glyphs/aturned.glif
+1443733935.0 glyphs/b.glif
+1443733935.0 glyphs/backslash.glif
+1443733935.0 glyphs/backslash.lat.glif
+1443733935.0 glyphs/bar.glif
+1443733935.0 glyphs/blinebelow.glif
+1443733935.0 glyphs/braceleft.glif
+1443733935.0 glyphs/braceleft.lat.glif
+1443733935.0 glyphs/braceright.glif
+1443733935.0 glyphs/braceright.lat.glif
+1443733935.0 glyphs/bracketleft.glif
+1443733935.0 glyphs/bracketleft.lat.glif
+1443733935.0 glyphs/bracketright.glif
+1443733935.0 glyphs/bracketright.lat.glif
+1443733935.0 glyphs/breve.glif
+1443733935.0 glyphs/brevebelowcmb.glif
+1443733935.0 glyphs/brevecmb.cap.glif
+1443733935.0 glyphs/brevecmb.glif
+1443733935.0 glyphs/breveinverteddoublecmb.glif
+1443733935.0 glyphs/brokenbar.glif
+1443733935.0 glyphs/bullet.glif
+1443733935.0 glyphs/bullet.lat.glif
+1443733935.0 glyphs/bulletoperator.glif
+1443733935.0 glyphs/c.glif
+1443733935.0 glyphs/caron.glif
+1443733935.0 glyphs/caroncmb.cap.glif
+1443733935.0 glyphs/caroncmb.glif
+1443733935.0 glyphs/ccaron.glif
+1443733935.0 glyphs/ccedilla.glif
+1443733935.0 glyphs/cedilla.glif
+1443733935.0 glyphs/cedillacmb.glif
+1443733935.0 glyphs/cent.glif
+1443733935.0 glyphs/cent.heb.glif
+1443733935.0 glyphs/cent.lat.glif
+1443733935.0 glyphs/chi.glif
+1443733935.0 glyphs/circledotted.glif
+1443733935.0 glyphs/circumflex.glif
+1443733935.0 glyphs/circumflexcmb.cap.glif
+1443733935.0 glyphs/circumflexcmb.glif
+1443733935.0 glyphs/colon.glif
+1443733935.0 glyphs/colontriangularmod.glif
+1443733935.0 glyphs/comma.glif
+1443733935.0 glyphs/copyright.glif
+1443733935.0 glyphs/copyright.lat.glif
+1443733935.0 glyphs/currency.glif
+1443733935.0 glyphs/d.glif
+1443733935.0 glyphs/dagger.glif
+1443733935.0 glyphs/dagger.lat.glif
+1443733935.0 glyphs/daggerdbl.glif
+1443733935.0 glyphs/daggerdbl.lat.glif
+1443733935.0 glyphs/ddotbelow.glif
+1443733935.0 glyphs/degree.glif
+1443733935.0 glyphs/degree.lat.glif
+1443733935.0 glyphs/dezh.glif
+1443733935.0 glyphs/dieresis.glif
+1443733935.0 glyphs/dieresiscmb.cap.glif
+1443733935.0 glyphs/dieresiscmb.glif
+1443733935.0 glyphs/divide.glif
+1443733935.0 glyphs/divisionslash.glif
+1443733935.0 glyphs/divisionslash.lat.glif
+1443733935.0 glyphs/dlinebelow.glif
+1443733935.0 glyphs/dollar.glif
+1443733935.0 glyphs/dollar.heb.glif
+1443733935.0 glyphs/dollar.lat.glif
+1443733935.0 glyphs/dotaccent.glif
+1443733935.0 glyphs/dotaccentcmb.cap.glif
+1443733935.0 glyphs/dotaccentcmb.glif
+1443733935.0 glyphs/dotbelowcmb.glif
+1443733935.0 glyphs/dotlessi.glif
+1443733935.0 glyphs/downtackbelowcmb.glif
+1443733935.0 glyphs/e.glif
+1443733935.0 glyphs/e.sups.glif
+1443733935.0 glyphs/eacute.glif
+1443733935.0 glyphs/ebreve.glif
+1443733935.0 glyphs/ecircumflex.glif
+1443733935.0 glyphs/edieresis.glif
+1443733935.0 glyphs/edotbelow.glif
+1443733936.0 glyphs/egrave.glif
+1443733936.0 glyphs/eight.glif
+1443733936.0 glyphs/eight.heb.glif
+1443733936.0 glyphs/eight.lat.glif
+1443733936.0 glyphs/eight.pnumheb.glif
+1443733936.0 glyphs/eight.pnumlat.glif
+1443735077.0 glyphs/ellipsis.glif
+1443733936.0 glyphs/emacron.glif
+1443733936.0 glyphs/emdash.glif
+1443733936.0 glyphs/emdash.lat.glif
+1443733936.0 glyphs/endash.glif
+1443733936.0 glyphs/endash.lat.glif
+1443733936.0 glyphs/eogonek.glif
+1443733936.0 glyphs/eogonek.sups.glif
+1443733936.0 glyphs/eopen.glif
+1443733936.0 glyphs/equal.glif
+1443733936.0 glyphs/esh.glif
+1443733936.0 glyphs/estimated.glif
+1443733936.0 glyphs/eth.glif
+1443733936.0 glyphs/exclam.glif
+1443733936.0 glyphs/exclam.lat.glif
+1443733936.0 glyphs/exclamdown.glif
+1443733936.0 glyphs/exclamdown.lat.glif
+1443733936.0 glyphs/ezh.glif
+1443733936.0 glyphs/f.glif
+1443733936.0 glyphs/fi.glif
+1443733936.0 glyphs/five.glif
+1443733936.0 glyphs/five.heb.glif
+1443733936.0 glyphs/five.lat.glif
+1443733936.0 glyphs/five.pnumheb.glif
+1443733936.0 glyphs/five.pnumlat.glif
+1443733936.0 glyphs/fl.glif
+1443733936.0 glyphs/florin.glif
+1443733936.0 glyphs/florin.heb.glif
+1443733936.0 glyphs/florin.lat.glif
+1443733936.0 glyphs/four.glif
+1443733936.0 glyphs/four.heb.glif
+1443733936.0 glyphs/four.lat.glif
+1443733936.0 glyphs/four.pnumheb.glif
+1443733936.0 glyphs/four.pnumlat.glif
+1443733936.0 glyphs/fraction.glif
+1443733936.0 glyphs/fraction.lat.glif
+1443733936.0 glyphs/g.glif
+1443733936.0 glyphs/gammalatin.glif
+1443733936.0 glyphs/gcaron.glif
+1443733936.0 glyphs/gdotaccent.glif
+1443733936.0 glyphs/germandbls.glif
+1443733936.0 glyphs/glottalstop.glif
+1443733936.0 glyphs/glottalstopreversed.glif
+1443733936.0 glyphs/glottalstopreversedsupmod.glif
+1443733936.0 glyphs/gmacron.glif
+1443733936.0 glyphs/grave.glif
+1443733936.0 glyphs/gravecmb.cap.glif
+1443733936.0 glyphs/gravecmb.glif
+1443733936.0 glyphs/greater.glif
+1443733936.0 glyphs/greaterequal.glif
+1443733936.0 glyphs/gscript.glif
+1443733936.0 glyphs/guillemotleft.glif
+1443733936.0 glyphs/guillemotleft.lat.glif
+1443733936.0 glyphs/guillemotright.glif
+1443733936.0 glyphs/guillemotright.lat.glif
+1443733936.0 glyphs/guilsinglleft.glif
+1443733936.0 glyphs/guilsinglleft.lat.glif
+1443733936.0 glyphs/guilsinglright.glif
+1443733936.0 glyphs/guilsinglright.lat.glif
+1443733936.0 glyphs/h.glif
+1443733936.0 glyphs/hbar.glif
+1443733936.0 glyphs/hbrevebelow.glif
+1443733936.0 glyphs/hdotbelow.glif
+1443733936.0 glyphs/heA_lef.glif
+1443733936.0 glyphs/heA_lefL_amed.glif
+1443733936.0 glyphs/heA_lefM_apiq.glif
+1443733936.0 glyphs/heA_lefP_atah.glif
+1443733936.0 glyphs/heA_lefQ_amats.glif
+1443733936.0 glyphs/heA_lefW_ide.glif
+1443733936.0 glyphs/heA_yin.glif
+1443733936.0 glyphs/heB_et.glif
+1443733936.0 glyphs/heB_etD_agesh.glif
+1443733936.0 glyphs/heB_etR_afe.glif
+1443733936.0 glyphs/heD_agesh.glif
+1443733936.0 glyphs/heD_agesh.shin.glif
+1443733936.0 glyphs/heD_alet.glif
+1443733936.0 glyphs/heD_aletD_agesh.glif
+1443733936.0 glyphs/heD_aletW_ide.glif
+1443733936.0 glyphs/heG_eresh.glif
+1443733936.0 glyphs/heG_ershayim.glif
+1443733936.0 glyphs/heG_imel.glif
+1443733936.0 glyphs/heG_imelD_agesh.glif
+1443733936.0 glyphs/heH_atafP_atah.glif
+1443733936.0 glyphs/heH_atafQ_amats.glif
+1443733936.0 glyphs/heH_atafQ_amatsQ_atan.glif
+1443733936.0 glyphs/heH_atafS_egol.glif
+1443733936.0 glyphs/heH_e.glif
+1443733936.0 glyphs/heH_eM_apiq.glif
+1443733936.0 glyphs/heH_eW_ide.glif
+1443733936.0 glyphs/heH_et.glif
+1443733936.0 glyphs/heH_iriq.glif
+1443733936.0 glyphs/heH_olam.glif
+1443733936.0 glyphs/heH_olamH_aser.glif
+1443733936.0 glyphs/heK_af.glif
+1443733936.0 glyphs/heK_afD_agesh.glif
+1443733936.0 glyphs/heK_afD_ageshF_in.glif
+1443733936.0 glyphs/heK_afF_in.glif
+1443733936.0 glyphs/heK_afR_afe.glif
+1443733936.0 glyphs/heK_afW_ide.glif
+1443733936.0 glyphs/heL_amed.glif
+1443733936.0 glyphs/heL_amedD_agesh.glif
+1443733936.0 glyphs/heL_amedW_ide.glif
+1443733936.0 glyphs/heM_aqaf.glif
+1443733936.0 glyphs/heM_em.glif
+1443733936.0 glyphs/heM_emD_agesh.glif
+1443733936.0 glyphs/heM_emF_in.glif
+1443733936.0 glyphs/heM_emF_inW_ide.glif
+1443733936.0 glyphs/heM_eteg.glif
+1443733936.0 glyphs/heN_un.glif
+1443733936.0 glyphs/heN_unD_agesh.glif
+1443733936.0 glyphs/heN_unF_in.glif
+1443733936.0 glyphs/heP_aseq.glif
+1443733936.0 glyphs/heP_atah.glif
+1443733936.0 glyphs/heP_atah.short.glif
+1443733936.0 glyphs/heP_e.glif
+1443733936.0 glyphs/heP_eD_agesh.glif
+1443733936.0 glyphs/heP_eD_ageshF_in.glif
+1443733936.0 glyphs/heP_eF_in.glif
+1443733936.0 glyphs/heP_eR_afe.glif
+1443733936.0 glyphs/heQ_amats.glif
+1443733936.0 glyphs/heQ_amats.kaf.glif
+1443733936.0 glyphs/heQ_amats.short.glif
+1443733936.0 glyphs/heQ_amatsQ_atan.glif
+1443733936.0 glyphs/heQ_amatsQ_atan.short.glif
+1443733936.0 glyphs/heQ_of.glif
+1443733936.0 glyphs/heQ_ofD_agesh.glif
+1443733936.0 glyphs/heQ_ubuts.glif
+1443733936.0 glyphs/heR_afe.glif
+1443733936.0 glyphs/heR_esh.glif
+1443733936.0 glyphs/heR_eshD_agesh.glif
+1443733936.0 glyphs/heR_eshW_ide.glif
+1443733936.0 glyphs/heS_amekh.glif
+1443733936.0 glyphs/heS_amekhD_agesh.glif
+1443733936.0 glyphs/heS_egol.glif
+1443733936.0 glyphs/heS_heva.glif
+1443733936.0 glyphs/heS_heva.kaf.glif
+1443733936.0 glyphs/heS_hin.glif
+1443733936.0 glyphs/heS_hinD_agesh.glif
+1443733936.0 glyphs/heS_hinD_ageshD_otted.glif
+1443733936.0 glyphs/heS_hinD_ot.glif
+1443733936.0 glyphs/heS_hinD_otted.glif
+1443733936.0 glyphs/heS_inD_ageshD_otted.glif
+1443733936.0 glyphs/heS_inD_ot.glif
+1443733936.0 glyphs/heS_inD_otted.glif
+1443733936.0 glyphs/heS_ofP_asuq.glif
+1443733936.0 glyphs/heT_av.glif
+1443733936.0 glyphs/heT_avD_agesh.glif
+1443733936.0 glyphs/heT_avW_ide.glif
+1443733936.0 glyphs/heT_et.glif
+1443733936.0 glyphs/heT_etD_agesh.glif
+1443733936.0 glyphs/heT_sadi.glif
+1443733936.0 glyphs/heT_sadiD_agesh.glif
+1443733936.0 glyphs/heT_sadiF_in.glif
+1443733936.0 glyphs/heT_sere.glif
+1443733936.0 glyphs/heV_arikaJ_ud.glif
+1443733936.0 glyphs/heV_av.glif
+1443733936.0 glyphs/heV_avD_agesh.glif
+1443733936.0 glyphs/heV_avD_blY_id.glif
+1443733936.0 glyphs/heV_avH_olam.glif
+1443733936.0 glyphs/heV_avY_odY_id.glif
+1443733936.0 glyphs/heY_od.glif
+1443733936.0 glyphs/heY_odD_agesh.glif
+1443733936.0 glyphs/heY_odD_blY_id.glif
+1443733936.0 glyphs/heY_odD_blY_idP_atah.glif
+1443733936.0 glyphs/heY_odH_iriq.glif
+1443733936.0 glyphs/heZ_ayin.glif
+1443733936.0 glyphs/heZ_ayinD_agesh.glif
+1443733936.0 glyphs/hlinebelow.glif
+1443733936.0 glyphs/hungarumlaut.glif
+1443733936.0 glyphs/hungarumlautcmb.cap.glif
+1443733936.0 glyphs/hungarumlautcmb.glif
+1443733936.0 glyphs/hyphen.glif
+1443733936.0 glyphs/hyphentwo.glif
+1443733936.0 glyphs/hyphentwo.lat.glif
+1443733936.0 glyphs/i.glif
+1443733936.0 glyphs/iacute.glif
+1443733936.0 glyphs/icircumflex.glif
+1443733936.0 glyphs/idieresis.glif
+1443733936.0 glyphs/igrave.glif
+1443733936.0 glyphs/imacron.glif
+1443733936.0 glyphs/infinity.glif
+1443733936.0 glyphs/integral.glif
+1443733936.0 glyphs/ismall.glif
+1443733936.0 glyphs/j.glif
+1443733936.0 glyphs/j.sups.glif
+1443733936.0 glyphs/k.glif
+1443733936.0 glyphs/kdotbelow.glif
+1443733936.0 glyphs/klinebelow.glif
+1443733936.0 glyphs/l.glif
+1443733936.0 glyphs/lefttorightembed.glif
+1443733936.0 glyphs/lefttorightmark.glif
+1443733936.0 glyphs/lefttorightoverride.glif
+1443733936.0 glyphs/less.glif
+1443733936.0 glyphs/lessequal.glif
+1443733936.0 glyphs/litre.glif
+1443733936.0 glyphs/lmiddletilde.glif
+1443733936.0 glyphs/logicalnot.glif
+1443733936.0 glyphs/lozenge.glif
+1443733936.0 glyphs/lslash.glif
+1443733936.0 glyphs/m.glif
+1443733936.0 glyphs/macron.glif
+1443733936.0 glyphs/macronbelowcmb.glif
+1443733936.0 glyphs/macroncmb.cap.glif
+1443733936.0 glyphs/macroncmb.glif
+1443733936.0 glyphs/minus.glif
+1443733936.0 glyphs/mu.math.glif
+1443733936.0 glyphs/multiply.glif
+1443733936.0 glyphs/n.glif
+1443733936.0 glyphs/nbspace.glif
+1443733936.0 glyphs/newsheqel.glif
+1443733936.0 glyphs/newsheqel.heb.glif
+1443733936.0 glyphs/newsheqel.lat.glif
+1443733936.0 glyphs/nine.glif
+1443733936.0 glyphs/nine.heb.glif
+1443733936.0 glyphs/nine.lat.glif
+1443733936.0 glyphs/nine.pnumheb.glif
+1443733936.0 glyphs/nine.pnumlat.glif
+1443733936.0 glyphs/notequal.glif
+1443733936.0 glyphs/ntilde.glif
+1443733936.0 glyphs/numbersign.glif
+1443733936.0 glyphs/numbersign.heb.glif
+1443733936.0 glyphs/numbersign.lat.glif
+1443733936.0 glyphs/o.glif
+1443733936.0 glyphs/o.sups.glif
+1443733936.0 glyphs/oacute.glif
+1443733936.0 glyphs/obreve.glif
+1443733936.0 glyphs/ocircumflex.glif
+1443733936.0 glyphs/odieresis.glif
+1443733936.0 glyphs/odotbelow.glif
+1443733936.0 glyphs/oe.glif
+1443733936.0 glyphs/ogonek.glif
+1443733936.0 glyphs/ograve.glif
+1443733936.0 glyphs/omacron.glif
+1443733936.0 glyphs/one.glif
+1443733936.0 glyphs/one.heb.glif
+1443733936.0 glyphs/one.lat.glif
+1443733936.0 glyphs/one.pnumheb.glif
+1443733936.0 glyphs/one.pnumlat.glif
+1443733936.0 glyphs/one.sups.glif
+1443733936.0 glyphs/one.supsheb.glif
+1443733937.0 glyphs/one.supslat.glif
+1443733937.0 glyphs/onehalf.glif
+1443733937.0 glyphs/onehalf.heb.glif
+1443733937.0 glyphs/onehalf.lat.glif
+1443733937.0 glyphs/onequarter.glif
+1443733937.0 glyphs/onequarter.heb.glif
+1443733937.0 glyphs/onequarter.lat.glif
+1443733937.0 glyphs/oopen.glif
+1443733937.0 glyphs/ordfeminine.glif
+1443733937.0 glyphs/ordmasculine.glif
+1443733937.0 glyphs/oslash.glif
+1443733937.0 glyphs/otilde.glif
+1443733937.0 glyphs/p.glif
+1443733937.0 glyphs/paragraph.glif
+1443733937.0 glyphs/paragraph.lat.glif
+1443733937.0 glyphs/parenleft.glif
+1443733937.0 glyphs/parenleft.lat.glif
+1443733937.0 glyphs/parenright.glif
+1443733937.0 glyphs/parenright.lat.glif
+1443733937.0 glyphs/partialdiff.glif
+1443733937.0 glyphs/percent.glif
+1443733937.0 glyphs/percent.heb.glif
+1443733937.0 glyphs/percent.lat.glif
+1443733937.0 glyphs/period.glif
+1443733937.0 glyphs/periodcentered.glif
+1443733937.0 glyphs/periodcentered.lat.glif
+1443733937.0 glyphs/perthousand.glif
+1443733937.0 glyphs/perthousand.heb.glif
+1443733937.0 glyphs/perthousand.lat.glif
+1443733937.0 glyphs/pi.glif
+1443733937.0 glyphs/plus.glif
+1443733937.0 glyphs/plusminus.glif
+1443733937.0 glyphs/popdirectionformat.glif
+1443733937.0 glyphs/primemod.glif
+1443733937.0 glyphs/product.glif
+1443733937.0 glyphs/q.glif
+1443733937.0 glyphs/question.glif
+1443733937.0 glyphs/question.lat.glif
+1443733937.0 glyphs/questiondown.glif
+1443733937.0 glyphs/questiondown.lat.glif
+1443733937.0 glyphs/quotedbl.glif
+1443733937.0 glyphs/quotedbl.lat.glif
+1443733937.0 glyphs/quotedblbase.glif
+1443733937.0 glyphs/quotedblbase.lat.glif
+1443733937.0 glyphs/quotedblleft.glif
+1443733937.0 glyphs/quotedblleft.lat.glif
+1443733937.0 glyphs/quotedblright.glif
+1443733937.0 glyphs/quotedblright.lat.glif
+1443733937.0 glyphs/quoteleft.glif
+1443733937.0 glyphs/quoteleft.lat.glif
+1443733937.0 glyphs/quoteright.glif
+1443733937.0 glyphs/quoteright.lat.glif
+1443733937.0 glyphs/quotesinglbase.glif
+1443733937.0 glyphs/quotesinglbase.lat.glif
+1443733937.0 glyphs/quotesingle.glif
+1443733937.0 glyphs/quotesingle.lat.glif
+1443733937.0 glyphs/r.glif
+1443733937.0 glyphs/radical.glif
+1443733937.0 glyphs/registered.glif
+1443733937.0 glyphs/registered.lat.glif
+1443733937.0 glyphs/righttoleftembed.glif
+1443733937.0 glyphs/righttoleftmark.glif
+1443733937.0 glyphs/righttoleftoverride.glif
+1443733937.0 glyphs/ring.glif
+1443733937.0 glyphs/ringcmb.cap.glif
+1443733937.0 glyphs/ringcmb.glif
+1443733937.0 glyphs/ringhalfleftmod.glif
+1443733937.0 glyphs/ringhalfrightmod.glif
+1443733937.0 glyphs/rsmall.glif
+1443733937.0 glyphs/rsmallinverted.glif
+1443733937.0 glyphs/s.glif
+1443733937.0 glyphs/sacute.glif
+1443733937.0 glyphs/scaron.glif
+1443733937.0 glyphs/schwa.glif
+1443733937.0 glyphs/sdotbelow.glif
+1443733937.0 glyphs/section.glif
+1443733937.0 glyphs/section.lat.glif
+1443733937.0 glyphs/semicolon.glif
+1443733937.0 glyphs/seven.glif
+1443733937.0 glyphs/seven.heb.glif
+1443733937.0 glyphs/seven.lat.glif
+1443733937.0 glyphs/seven.pnumheb.glif
+1443733937.0 glyphs/seven.pnumlat.glif
+1443733937.0 glyphs/sfthyphen.glif
+1443733937.0 glyphs/six.glif
+1443733937.0 glyphs/six.heb.glif
+1443733937.0 glyphs/six.lat.glif
+1443733937.0 glyphs/six.pnumheb.glif
+1443733937.0 glyphs/six.pnumlat.glif
+1443733937.0 glyphs/slash.glif
+1443733937.0 glyphs/slash.lat.glif
+1443733937.0 glyphs/space.glif
+1443733937.0 glyphs/sterling.glif
+1443733937.0 glyphs/sterling.heb.glif
+1443733937.0 glyphs/sterling.lat.glif
+1443733937.0 glyphs/summation.glif
+1443733937.0 glyphs/t.glif
+1443733937.0 glyphs/tdotbelow.glif
+1443733937.0 glyphs/tesh.glif
+1443733937.0 glyphs/theta.glif
+1443733937.0 glyphs/thorn.glif
+1443733937.0 glyphs/three.glif
+1443733937.0 glyphs/three.heb.glif
+1443733937.0 glyphs/three.lat.glif
+1443733937.0 glyphs/three.pnumheb.glif
+1443733937.0 glyphs/three.pnumlat.glif
+1443733937.0 glyphs/three.sups.glif
+1443733937.0 glyphs/three.supsheb.glif
+1443733937.0 glyphs/three.supslat.glif
+1443733937.0 glyphs/threequarters.glif
+1443733937.0 glyphs/threequarters.heb.glif
+1443733937.0 glyphs/threequarters.lat.glif
+1443733937.0 glyphs/tilde.glif
+1443733937.0 glyphs/tildecmb.cap.glif
+1443733937.0 glyphs/tildecmb.glif
+1443733937.0 glyphs/tlinebelow.glif
+1443733937.0 glyphs/trademark.glif
+1443733937.0 glyphs/trademark.lat.glif
+1443733937.0 glyphs/ts.glif
+1443733937.0 glyphs/two.glif
+1443733937.0 glyphs/two.heb.glif
+1443733937.0 glyphs/two.lat.glif
+1443733937.0 glyphs/two.pnumheb.glif
+1443733937.0 glyphs/two.pnumlat.glif
+1443733937.0 glyphs/two.sups.glif
+1443733937.0 glyphs/two.supsheb.glif
+1443733937.0 glyphs/two.supslat.glif
+1443733937.0 glyphs/u.glif
+1443733937.0 glyphs/uacute.glif
+1443733937.0 glyphs/ucircumflex.glif
+1443733937.0 glyphs/udieresis.glif
+1443733937.0 glyphs/ugrave.glif
+1443733937.0 glyphs/umacron.glif
+1443733937.0 glyphs/underscore.glif
+1443733937.0 glyphs/upsilonlatin.glif
+1443733937.0 glyphs/v.glif
+1443733937.0 glyphs/vdotbelow.glif
+1443733937.0 glyphs/verticallinemod.glif
+1443733937.0 glyphs/w.glif
+1443733937.0 glyphs/x.glif
+1443733937.0 glyphs/y.glif
+1443733937.0 glyphs/yacute.glif
+1443733937.0 glyphs/ydieresis.glif
+1443733937.0 glyphs/yen.glif
+1443733937.0 glyphs/yen.heb.glif
+1443733937.0 glyphs/yen.lat.glif
+1443733937.0 glyphs/yturned.glif
+1443733937.0 glyphs/z.glif
+1443733937.0 glyphs/zcaron.glif
+1443733937.0 glyphs/zdotbelow.glif
+1443733937.0 glyphs/zero.glif
+1443733937.0 glyphs/zero.heb.glif
+1443733937.0 glyphs/zero.lat.glif
+1443733937.0 glyphs/zero.pnumheb.glif
+1443733937.0 glyphs/zero.pnumlat.glif
+1443733937.0 glyphs/zero.slash.glif
+1443733937.0 glyphs/zero.slashpnum.glif
+1443733937.0 glyphs/zlinebelow.glif
+1443733937.0 groups.plist
+1443733937.0 kerning.plist
+1443733937.0 metainfo.plist";
 };
 versionMajor = 2;
 versionMinor = 1;
