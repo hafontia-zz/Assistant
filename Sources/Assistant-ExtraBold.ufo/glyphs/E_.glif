@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="556"/>
+  <unicode hex="0045"/>
+  <anchor x="290" y="670" name="aboveUC"/>
+  <anchor x="310" y="0" name="baseLC"/>
+  <anchor x="290" y="-20" name="belowLC"/>
+  <anchor x="396" y="0" name="ogonekUC"/>
+  <outline>
+    <contour>
+      <point x="72" y="0" type="line"/>
+      <point x="502" y="0" type="line"/>
+      <point x="502" y="144" type="line"/>
+      <point x="244" y="144" type="line"/>
+      <point x="244" y="260" type="line"/>
+      <point x="456" y="260" type="line"/>
+      <point x="456" y="404" type="line"/>
+      <point x="244" y="404" type="line"/>
+      <point x="244" y="506" type="line"/>
+      <point x="492" y="506" type="line"/>
+      <point x="492" y="650" type="line"/>
+      <point x="72" y="650" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/05 20:56:23</string>
+      <key>public.markColor</key>
+      <string>0.8,0.8,0.6,0.004</string>
+    </dict>
+  </lib>
+</glyph>

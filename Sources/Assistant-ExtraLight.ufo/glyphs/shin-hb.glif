@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shin-hb" format="2">
+  <advance width="598"/>
+  <unicode hex="05E9"/>
+  <anchor x="304" y="0" name="bottom"/>
+  <anchor x="10" y="0" name="bottomleft"/>
+  <anchor x="369" y="250" name="center"/>
+  <anchor x="304" y="500" name="top"/>
+  <anchor x="61" y="500" name="topleft"/>
+  <anchor x="511" y="500" name="topright"/>
+  <outline>
+    <contour>
+      <point x="122" y="-10" type="line"/>
+      <point x="388" y="0"/>
+      <point x="535" y="129"/>
+      <point x="533" y="417" type="curve" smooth="yes"/>
+      <point x="532" y="545" type="line"/>
+      <point x="500" y="545" type="line"/>
+      <point x="501" y="417" type="line" smooth="yes"/>
+      <point x="503" y="144"/>
+      <point x="364" y="37"/>
+      <point x="151" y="23" type="curve"/>
+      <point x="87" y="545" type="line"/>
+      <point x="55" y="545" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="198" type="line"/>
+      <point x="249" y="265"/>
+      <point x="307" y="330"/>
+      <point x="312" y="487" type="curve" smooth="yes"/>
+      <point x="313" y="542" type="line"/>
+      <point x="281" y="542" type="line"/>
+      <point x="280" y="487" type="line" smooth="yes"/>
+      <point x="275" y="344"/>
+      <point x="227" y="293"/>
+      <point x="111" y="228" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 19:03:35</string>
+    </dict>
+  </lib>
+</glyph>

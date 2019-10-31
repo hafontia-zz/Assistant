@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tsere-hb" format="2">
+  <unicode hex="05B5"/>
+  <anchor x="118" y="-8" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="171" y="-77" type="curve"/>
+      <point x="155" y="-77"/>
+      <point x="143" y="-91"/>
+      <point x="143" y="-106" type="curve"/>
+      <point x="143" y="-121"/>
+      <point x="155" y="-135"/>
+      <point x="171" y="-135" type="curve"/>
+      <point x="187" y="-135"/>
+      <point x="198" y="-121"/>
+      <point x="198" y="-106" type="curve"/>
+      <point x="198" y="-91"/>
+      <point x="187" y="-77"/>
+    </contour>
+    <contour>
+      <point x="64" y="-77" type="curve"/>
+      <point x="48" y="-77"/>
+      <point x="36" y="-91"/>
+      <point x="36" y="-106" type="curve"/>
+      <point x="36" y="-121"/>
+      <point x="48" y="-135"/>
+      <point x="64" y="-135" type="curve"/>
+      <point x="80" y="-135"/>
+      <point x="91" y="-121"/>
+      <point x="91" y="-106" type="curve"/>
+      <point x="91" y="-91"/>
+      <point x="80" y="-77"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/28 10:27:00</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>234</integer>
+    </dict>
+  </lib>
+</glyph>

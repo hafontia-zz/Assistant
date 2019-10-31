@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="722"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="22" y="484" type="line"/>
+      <point x="700" y="484" type="line"/>
+      <point x="700" y="564" type="line"/>
+      <point x="98" y="564" type="line"/>
+      <point x="22" y="558" type="line"/>
+    </contour>
+    <component base="H" xOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/05 20:56:23</string>
+    </dict>
+  </lib>
+</glyph>

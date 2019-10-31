@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="maqaf-hb" format="2">
+  <advance width="336"/>
+  <unicode hex="05BE"/>
+  <outline>
+    <contour>
+      <point x="45" y="445" type="line"/>
+      <point x="291" y="445" type="line"/>
+      <point x="291" y="579" type="line" smooth="yes"/>
+      <point x="45" y="579" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/28 10:29:11</string>
+    </dict>
+  </lib>
+</glyph>

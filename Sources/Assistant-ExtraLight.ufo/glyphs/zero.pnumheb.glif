@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.pnumheb" format="2">
+  <advance width="504"/>
+  <outline>
+    <contour>
+      <point x="252" y="-13" type="curve" smooth="yes"/>
+      <point x="362.091" y="-13"/>
+      <point x="423" y="92.436"/>
+      <point x="423" y="278" type="curve" smooth="yes"/>
+      <point x="423" y="463.089"/>
+      <point x="362.949" y="566"/>
+      <point x="252" y="566" type="curve" smooth="yes"/>
+      <point x="141.051" y="566"/>
+      <point x="81" y="463.089"/>
+      <point x="81" y="278" type="curve" smooth="yes"/>
+      <point x="81" y="92.436"/>
+      <point x="141.909" y="-13"/>
+    </contour>
+    <contour>
+      <point x="252" y="13" type="curve" smooth="yes"/>
+      <point x="163.435" y="13"/>
+      <point x="110" y="110.828"/>
+      <point x="110" y="278" type="curve" smooth="yes"/>
+      <point x="110" y="444.765"/>
+      <point x="162.634" y="540"/>
+      <point x="252" y="540" type="curve" smooth="yes"/>
+      <point x="341.366" y="540"/>
+      <point x="394" y="444.765"/>
+      <point x="394" y="278" type="curve" smooth="yes"/>
+      <point x="394" y="110.828"/>
+      <point x="340.565" y="13"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/01 19:27:42</string>
+      <key>public.markColor</key>
+      <string>0.8,1,0.4,0.004</string>
+    </dict>
+  </lib>
+</glyph>

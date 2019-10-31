@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gimel-hb" format="2">
+  <advance width="452"/>
+  <unicode hex="05D2"/>
+  <anchor x="222" y="0" name="bottom"/>
+  <anchor x="16" y="0" name="bottomleft"/>
+  <anchor x="102" y="270" name="center"/>
+  <anchor x="222" y="500" name="top"/>
+  <anchor x="56" y="500" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="243" y="0" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="385" y="233" type="line"/>
+      <point x="385" y="421" type="line"/>
+      <point x="385" y="514"/>
+      <point x="341" y="565"/>
+      <point x="258" y="575" type="curve" smooth="yes"/>
+      <point x="121" y="592" type="line"/>
+      <point x="99" y="460" type="line"/>
+      <point x="161" y="452" type="line" smooth="yes"/>
+      <point x="188" y="449"/>
+      <point x="203" y="441"/>
+      <point x="203" y="399" type="curve"/>
+      <point x="203" y="237" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="-21" type="line"/>
+      <point x="186" y="14"/>
+      <point x="227" y="79"/>
+      <point x="265" y="161" type="curve"/>
+      <point x="205" y="251" type="line"/>
+      <point x="177" y="198"/>
+      <point x="114" y="151"/>
+      <point x="12" y="121" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 19:05:07</string>
+    </dict>
+  </lib>
+</glyph>

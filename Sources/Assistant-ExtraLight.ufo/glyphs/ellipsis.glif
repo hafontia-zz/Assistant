@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis" format="2">
+  <advance width="1000"/>
+  <unicode hex="2026"/>
+  <guideline x="500" y="253" angle="90"/>
+  <outline>
+    <component base="period" xOffset="62"/>
+    <component base="period" xOffset="396"/>
+    <component base="period" xOffset="730"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/05 20:56:23</string>
+      <key>public.markColor</key>
+      <string>0.302,1,0.545,0.004</string>
+    </dict>
+  </lib>
+</glyph>
