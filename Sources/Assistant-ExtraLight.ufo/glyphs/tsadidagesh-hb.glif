@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tsadidagesh-hb" format="2">
+  <advance width="488"/>
+  <unicode hex="FB46"/>
+  <outline>
+    <component base="tsadi-hb"/>
+    <component base="dagesh-hb" xOffset="95" yOffset="-123"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/29 15:01:53</string>
+    </dict>
+  </lib>
+</glyph>

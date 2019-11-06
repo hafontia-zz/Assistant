@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rafe-hb" format="2">
+  <unicode hex="05BF"/>
+  <anchor x="126" y="386" name="_top"/>
+  <outline>
+    <contour>
+      <point x="221" y="578" type="line"/>
+      <point x="32" y="578" type="line"/>
+      <point x="32" y="518" type="line"/>
+      <point x="221" y="518" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/28 10:29:46</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>269</integer>
+    </dict>
+  </lib>
+</glyph>

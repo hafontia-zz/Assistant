@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.cap" format="2">
+  <anchor x="0" y="670" name="_aboveUC"/>
+  <outline>
+    <contour>
+      <point x="-94" y="700" type="line"/>
+      <point x="94" y="700" type="line"/>
+      <point x="178" y="810" type="line"/>
+      <point x="104" y="854" type="line"/>
+      <point x="2" y="774" type="line"/>
+      <point x="-2" y="774" type="line"/>
+      <point x="-104" y="854" type="line"/>
+      <point x="-178" y="810" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/05 20:57:25</string>
+    </dict>
+  </lib>
+</glyph>

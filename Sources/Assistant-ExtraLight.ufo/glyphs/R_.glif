@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R" format="2">
+  <advance width="534"/>
+  <unicode hex="0052"/>
+  <anchor x="282" y="680" name="aboveUC"/>
+  <anchor x="267" y="0" name="baseLC"/>
+  <anchor x="296" y="-20" name="belowLC"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="132" y="312" type="line"/>
+      <point x="282" y="312" type="line" smooth="yes"/>
+      <point x="412" y="312"/>
+      <point x="494" y="374"/>
+      <point x="494" y="490" type="curve" smooth="yes"/>
+      <point x="494" y="612"/>
+      <point x="412" y="660"/>
+      <point x="282" y="660" type="curve" smooth="yes"/>
+      <point x="100" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="466" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="310" y="324" type="line"/>
+      <point x="274" y="322" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="340" type="line"/>
+      <point x="132" y="632" type="line"/>
+      <point x="270" y="632" type="line" smooth="yes"/>
+      <point x="392" y="632"/>
+      <point x="460" y="594"/>
+      <point x="460" y="490" type="curve" smooth="yes"/>
+      <point x="460" y="388"/>
+      <point x="392" y="340"/>
+      <point x="270" y="340" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/05 20:56:23</string>
+      <key>public.markColor</key>
+      <string>0.8,0.8,0.6,0.004</string>
+    </dict>
+  </lib>
+</glyph>

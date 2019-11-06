@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="holam-hb" format="2">
+  <unicode hex="05B9"/>
+  <anchor x="64" y="400" name="_topleft"/>
+  <outline>
+    <contour>
+      <point x="64" y="566" type="curve"/>
+      <point x="48" y="566"/>
+      <point x="36" y="551"/>
+      <point x="36" y="537" type="curve"/>
+      <point x="36" y="521"/>
+      <point x="48" y="507"/>
+      <point x="64" y="507" type="curve"/>
+      <point x="80" y="507"/>
+      <point x="91" y="521"/>
+      <point x="91" y="537" type="curve"/>
+      <point x="91" y="552"/>
+      <point x="80" y="566"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/28 10:36:40</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>127</integer>
+    </dict>
+  </lib>
+</glyph>

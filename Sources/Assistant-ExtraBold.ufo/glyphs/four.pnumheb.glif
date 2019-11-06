@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.pnumheb" format="2">
+  <advance width="540"/>
+  <outline>
+    <contour>
+      <point x="285" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="442" y="598" type="line"/>
+      <point x="236" y="598" type="line"/>
+      <point x="33" y="249" type="line"/>
+      <point x="33" y="132" type="line"/>
+      <point x="505" y="132" type="line"/>
+      <point x="505" y="261" type="line"/>
+      <point x="195" y="261" type="line"/>
+      <point x="246" y="356" type="line"/>
+      <point x="262" y="390"/>
+      <point x="279" y="426"/>
+      <point x="293" y="460" type="curve"/>
+      <point x="294" y="460" type="line"/>
+      <point x="290" y="464" type="line"/>
+      <point x="288" y="424"/>
+      <point x="285" y="364"/>
+      <point x="285" y="324" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/01 19:27:48</string>
+      <key>public.markColor</key>
+      <string>0.8,1,0.4,0.004</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ismall" format="2">
+  <advance width="298"/>
+  <anchor x="150" y="500" name="aboveLC"/>
+  <anchor x="150" y="-20" name="belowLC"/>
+  <anchor x="124" y="0" name="ogonekUC"/>
+  <outline>
+    <contour>
+      <point x="42" y="0" type="line"/>
+      <point x="256" y="0" type="line"/>
+      <point x="256" y="28" type="line"/>
+      <point x="164" y="28" type="line"/>
+      <point x="164" y="450" type="line"/>
+      <point x="256" y="450" type="line"/>
+      <point x="256" y="478" type="line"/>
+      <point x="42" y="478" type="line"/>
+      <point x="42" y="450" type="line"/>
+      <point x="134" y="450" type="line"/>
+      <point x="134" y="28" type="line"/>
+      <point x="42" y="28" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/05 11:32:41</string>
+    </dict>
+  </lib>
+</glyph>

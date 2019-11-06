@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vav-hb" format="2">
+  <advance width="278"/>
+  <unicode hex="05D5"/>
+  <anchor x="139" y="0" name="bottom"/>
+  <anchor x="20" y="0" name="bottomleft"/>
+  <anchor x="-11" y="250" name="center"/>
+  <anchor x="139" y="500" name="top"/>
+  <anchor x="120" y="500" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="51" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="233" y="462" type="line"/>
+      <point x="221" y="579" type="line"/>
+      <point x="40" y="579" type="line"/>
+      <point x="51" y="462" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/28 10:39:33</string>
+    </dict>
+  </lib>
+</glyph>

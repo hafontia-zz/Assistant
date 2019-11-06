@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="het-hb" format="2">
+  <advance width="542"/>
+  <unicode hex="05D7"/>
+  <anchor x="251" y="0" name="bottom"/>
+  <anchor x="20" y="0" name="bottomleft"/>
+  <anchor x="251" y="250" name="center"/>
+  <anchor x="271" y="500" name="top"/>
+  <anchor x="20" y="500" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="430" y="0" type="line"/>
+      <point x="462" y="0" type="line"/>
+      <point x="462" y="340" type="line"/>
+      <point x="462" y="475"/>
+      <point x="405" y="545"/>
+      <point x="297" y="545" type="curve" smooth="yes"/>
+      <point x="70" y="545" type="line"/>
+      <point x="70" y="515" type="line"/>
+      <point x="295" y="515" type="line" smooth="yes"/>
+      <point x="384" y="515"/>
+      <point x="430" y="455"/>
+      <point x="430" y="340" type="curve"/>
+    </contour>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="102" y="545" type="line"/>
+      <point x="70" y="545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/28 10:31:12</string>
+    </dict>
+  </lib>
+</glyph>

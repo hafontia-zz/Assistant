@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shindageshsindot-hb" format="2">
+  <advance width="598"/>
+  <unicode hex="FB2D"/>
+  <outline>
+    <component base="shin-hb"/>
+    <component base="dagesh-hb" xOffset="305" yOffset="7"/>
+    <component base="sindot-hb" xOffset="-3" yOffset="100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/13 14:59:21</string>
+    </dict>
+  </lib>
+</glyph>

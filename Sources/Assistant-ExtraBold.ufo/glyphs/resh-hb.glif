@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="resh-hb" format="2">
+  <advance width="497"/>
+  <unicode hex="05E8"/>
+  <anchor x="353" y="0" name="bottom"/>
+  <anchor x="20" y="0" name="bottomleft"/>
+  <anchor x="149" y="250" name="center"/>
+  <anchor x="249" y="500" name="top"/>
+  <anchor x="20" y="500" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="270" y="0" type="line"/>
+      <point x="452" y="0" type="line"/>
+      <point x="452" y="390" type="line"/>
+      <point x="452" y="526"/>
+      <point x="377" y="579"/>
+      <point x="277" y="579" type="curve" smooth="yes"/>
+      <point x="20" y="579" type="line"/>
+      <point x="20" y="445" type="line"/>
+      <point x="225" y="445" type="line" smooth="yes"/>
+      <point x="255" y="445"/>
+      <point x="270" y="430"/>
+      <point x="270" y="400" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/07 10:48:36</string>
+    </dict>
+  </lib>
+</glyph>

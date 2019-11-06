@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qof-hb" format="2">
+  <advance width="613"/>
+  <unicode hex="05E7"/>
+  <anchor x="377" y="0" name="bottom"/>
+  <anchor x="22" y="0" name="bottomleft"/>
+  <anchor x="294" y="270" name="center"/>
+  <anchor x="307" y="500" name="top"/>
+  <anchor x="22" y="500" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="272" y="-1" type="line"/>
+      <point x="509" y="-1"/>
+      <point x="562" y="171"/>
+      <point x="571" y="342" type="curve"/>
+      <point x="579" y="465" type="line"/>
+      <point x="585" y="579" type="line"/>
+      <point x="48" y="579" type="line"/>
+      <point x="48" y="445" type="line"/>
+      <point x="389" y="445" type="line"/>
+      <point x="379" y="292" type="line"/>
+      <point x="372" y="184"/>
+      <point x="343" y="139"/>
+      <point x="258" y="133" type="curve"/>
+    </contour>
+    <contour>
+      <point x="35" y="-200" type="line"/>
+      <point x="217" y="-200" type="line"/>
+      <point x="217" y="277" type="line"/>
+      <point x="217" y="345" type="line"/>
+      <point x="60" y="345" type="line"/>
+      <point x="35" y="276" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 19:05:54</string>
+    </dict>
+  </lib>
+</glyph>
