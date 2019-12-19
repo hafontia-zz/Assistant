@@ -8835,6 +8835,8 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.segmentType</key>
+    <string>curve</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -9378,6 +9380,12 @@
       <string>popdirectionformat</string>
       <string>circledotted</string>
       <string>dotlessj</string>
+      <string>onesuperior</string>
+      <string>twosuperior</string>
+      <string>threesuperior</string>
+      <string>foursuperior</string>
+      <string>CR</string>
+      <string>mu</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
