@@ -32,6 +32,8 @@
     <string>B_linebelow.glif</string>
     <key>C</key>
     <string>C_.glif</string>
+    <key>CR</key>
+    <string>C_R_.glif</string>
     <key>Ccaron</key>
     <string>C_caron.glif</string>
     <key>Ccedilla</key>
@@ -506,6 +508,8 @@
     <string>four.lat.glif</string>
     <key>four.pnumheb</key>
     <string>four.pnumheb.glif</string>
+    <key>foursuperior</key>
+    <string>foursuperior.glif</string>
     <key>fraction</key>
     <string>fraction.glif</string>
     <key>fraction.lat</key>
@@ -680,6 +684,8 @@
     <string>memdagesh-hb.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
+    <key>mu</key>
+    <string>mu.glif</string>
     <key>multiply</key>
     <string>multiply.glif</string>
     <key>n</key>
@@ -746,6 +752,8 @@
     <string>onehalf.glif</string>
     <key>onequarter</key>
     <string>onequarter.glif</string>
+    <key>onesuperior</key>
+    <string>onesuperior.glif</string>
     <key>oopen</key>
     <string>oopen.glif</string>
     <key>ordfeminine</key>
@@ -986,6 +994,8 @@
     <string>three.supsheb.glif</string>
     <key>threequarters</key>
     <string>threequarters.glif</string>
+    <key>threesuperior</key>
+    <string>threesuperior.glif</string>
     <key>tilde</key>
     <string>tilde.glif</string>
     <key>tildecomb</key>
@@ -1014,6 +1024,8 @@
     <string>two.sups.glif</string>
     <key>two.supsheb</key>
     <string>two.supsheb.glif</string>
+    <key>twosuperior</key>
+    <string>twosuperior.glif</string>
     <key>u</key>
     <string>u.glif</string>
     <key>uacute</key>
