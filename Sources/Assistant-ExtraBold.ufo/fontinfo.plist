@@ -7,9 +7,7 @@
     <key>capHeight</key>
     <integer>750</integer>
     <key>copyright</key>
-    <string>Copyright 2010 The Amirim Project Authors.
-
-Reserved Font Name 'Source'. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.</string>
+    <string>Copyright 2010 The Amirim Project Authors (https://github.com/hafontia/Assistant) Reserved Font Name 'Source'. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.</string>
     <key>descender</key>
     <integer>-250</integer>
     <key>familyName</key>
@@ -31,6 +29,10 @@ Reserved Font Name 'Source'. Source is a trademark of Adobe Systems Incorporated
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2015/11/05 11:30:34</string>
+    <key>openTypeHheaAscender</key>
+    <integer>750</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-250</integer>
     <key>openTypeNameDesigner</key>
     <string>Hebrew By Ben Nathan, Latin by Paul Hunt</string>
     <key>openTypeNameDesignerURL</key>
@@ -41,8 +43,16 @@ Reserved Font Name 'Source'. Source is a trademark of Adobe Systems Incorporated
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeOS2Type</key>
     <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>750</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-250</integer>
     <key>openTypeOS2VendorID</key>
     <string>HFNT</string>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1021</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>250</integer>
     <key>postscriptBlueValues</key>
     <array/>
     <key>postscriptFamilyBlues</key>
