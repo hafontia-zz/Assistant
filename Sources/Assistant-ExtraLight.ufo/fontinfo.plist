@@ -7,7 +7,9 @@
     <key>capHeight</key>
     <integer>750</integer>
     <key>copyright</key>
-    <string>Copyright 2010 The Amirim Project Authors, with Reserved Font Name 'Source'. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.</string>
+    <string>Copyright 2010 The Amirim Project Authors.
+
+Reserved Font Name 'Source'. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.</string>
     <key>descender</key>
     <integer>-250</integer>
     <key>familyName</key>
