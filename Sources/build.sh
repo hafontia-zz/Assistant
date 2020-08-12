@@ -36,8 +36,8 @@ done
 
 
 
-echo "DO NOT FIX VF Meta"
-#gftools fix-vf-meta $vfs;
+echo "Fix VF Meta"
+gftools fix-vf-meta $vfs;
 
 echo "Dropping MVAR"
 for vf in $vfs
@@ -49,6 +49,7 @@ do
 	rm $vf;
 	ttx $new_file
 	rm $new_file
+
 done
 
 echo "Fixing Hinting"
@@ -56,9 +57,11 @@ for vf in $vfs
 do
 	gftools fix-hinting $vf;
 	mv "$vf.fix" $vf;
+	gftools fix-fsselection $vf --usetypometrics;
 done
 for ttf in $ttfs
 do
 	gftools fix-hinting $ttf;
 	mv "$ttf.fix" $ttf;
+	gftools fix-fsselection $ttf --usetypometrics;
 done
