@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="275" maximum="800" default="275">
-      <map input="275" output="100"/>
+    <axis tag="wght" name="Weight" minimum="200" maximum="800" default="200">
+      <map input="200" output="100"/>
       <map input="300" output="115"/>
       <map input="400" output="130"/>
       <map input="600" output="150"/>
