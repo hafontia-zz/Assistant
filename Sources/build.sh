@@ -36,8 +36,8 @@ done
 
 
 
-echo "Fixing VF Meta"
-gftools fix-vf-meta $vfs;
+echo "DO NOT FIX VF Meta"
+#gftools fix-vf-meta $vfs;
 
 echo "Dropping MVAR"
 for vf in $vfs
