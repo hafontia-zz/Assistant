@@ -1,4 +1,4 @@
-!/bin/sh
+#!/bin/sh
 set -e
 
 
@@ -20,8 +20,8 @@ ttfs=$(ls ../fonts/ttf/*.ttf)
 for ttf in $ttfs
 do
 	gftools fix-dsig -f $ttf;
-	ttfautohint $ttf "$ttf.fix";
-	mv "$ttf.fix" $ttf;
+	#ttfautohint $ttf "$ttf.fix";
+	#mv "$ttf.fix" $ttf;
 done
 
 vfs=$(ls ../fonts/vf/*\[wght\].ttf)
@@ -30,8 +30,8 @@ echo "Post processing VFs"
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-	ttfautohint-vf --stem-width-mode nnn $vf "$vf.fix";
-	mv "$vf.fix" $vf;
+	#ttfautohint-vf --stem-width-mode nnn $vf "$vf.fix";
+	#mv "$vf.fix" $vf;
 done
 
 
@@ -55,13 +55,20 @@ done
 echo "Fixing Hinting"
 for vf in $vfs
 do
-	gftools fix-hinting $vf;
-	mv "$vf.fix" $vf;
+	gftools fix-nonhinting $vf "$vf.fix";
+	if [ -f "$vf.fix" ]; then mv "$vf.fix" $vf; fi
 	gftools fix-fsselection $vf --usetypometrics;
 done
 for ttf in $ttfs
 do
-	gftools fix-hinting $ttf;
-	mv "$ttf.fix" $ttf;
+	gftools fix-nonhinting $ttf "$ttf.fix";
+    if [ -f "$ttf.fix" ]; then mv "$ttf.fix" $ttf; fi
 	gftools fix-fsselection $ttf --usetypometrics;
 done
+
+rm -f ../fonts/vf/*.ttx
+rm -f ../fonts/ttf/*.ttx
+rm -f ../fonts/vf/*gasp.ttf
+rm -f ../fonts/ttf/*gasp.ttf
+
+echo "Done"
