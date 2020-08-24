@@ -16,8 +16,8 @@ fontmake -m Assistant.designspace -i -o ttf --output-dir ../fonts/ttf/
 fontmake -m Assistant.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
-mkdir -p ../fonts/vf
-fontmake -m Assistant.designspace -o variable --output-path ../fonts/vf/Assistant[wght].ttf
+mkdir -p ../fonts/variable
+fontmake -m Assistant.designspace -o variable --output-path ../fonts/variable/Assistant[wght].ttf
 
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/
@@ -32,7 +32,7 @@ do
 	#mv "$ttf.fix" $ttf;
 done
 
-vfs=$(ls ../fonts/vf/*\[wght\].ttf)
+vfs=$(ls ../fonts/variable/*\[wght\].ttf)
 
 echo "Post processing VFs"
 for vf in $vfs
@@ -53,7 +53,7 @@ do
 	mv "$vf.fix" $vf;
 	ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
 	rtrip=$(basename -s .ttf $vf)
-	new_file=../fonts/vf/$rtrip.ttx;
+	new_file=../fonts/variable/$rtrip.ttx;
 	rm $vf;
 	ttx $new_file
 	rm $new_file
@@ -74,9 +74,9 @@ do
 	gftools fix-fsselection $ttf --usetypometrics;
 done
 
-rm -f ../fonts/vf/*.ttx
+rm -f ../fonts/variable/*.ttx
 rm -f ../fonts/ttf/*.ttx
-rm -f ../fonts/vf/*gasp.ttf
+rm -f ../fonts/variable/*gasp.ttf
 rm -f ../fonts/ttf/*gasp.ttf
 
 echo "Done"
