@@ -13,7 +13,6 @@ rm -rf ../fonts
 echo "Generating Static fonts"
 mkdir -p ../fonts
 fontmake -m Assistant.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m Assistant.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
 mkdir -p ../fonts/variable
