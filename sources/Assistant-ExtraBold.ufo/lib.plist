@@ -3,11 +3,24 @@
 <plist version="1.0">
   <dict>
     <key>GSOffsetHorizontal</key>
-    <integer>1</integer>
+    <integer>4</integer>
     <key>GSOffsetProportional</key>
     <integer>1</integer>
     <key>GSOffsetVertical</key>
     <integer>10</integer>
+    <key>com.github.googlei18n.ufo2ft.filters</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>propagateAnchors</string>
+        <key>pre</key>
+        <true/>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>flattenComponents</string>
+      </dict>
+    </array>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.A</key>
     <dict>
       <key>com.typemytype.robofont.mark</key>
@@ -8816,21 +8829,21 @@
     <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
     <string></string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
-    <integer>100</integer>
+    <integer>200</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
     <key>com.schriftgestaltung.fontMasterID</key>
-    <string>786F3AE7-681A-4E36-83D7-614DB6CCA2F0</string>
+    <string>A57419AF-C607-4C6D-867D-F9F312359F5B</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>com.schriftgestaltung.glyphOrder</key>
     <false/>
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>
-    <string>Light</string>
+    <string>Bold</string>
     <key>com.schriftgestaltung.weightValue</key>
-    <integer>100</integer>
+    <integer>200</integer>
     <key>com.schriftgestaltung.width</key>
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
@@ -8854,7 +8867,7 @@
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>1</integer>
     <key>com.typemytype.robofont.smartSets.uniqueKey</key>
-    <string>4761695888</string>
+    <string>5327943184</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
