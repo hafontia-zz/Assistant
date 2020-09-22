@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.cap" format="2">
+  <anchor x="0" y="682" name="_aboveUC"/>
+  <outline>
+    <contour>
+      <point x="-14" y="836" type="line"/>
+      <point x="-132" y="720" type="line"/>
+      <point x="-116" y="702" type="line"/>
+      <point x="-2" y="806" type="line"/>
+      <point x="2" y="806" type="line"/>
+      <point x="116" y="702" type="line"/>
+      <point x="132" y="720" type="line"/>
+      <point x="14" y="836" type="line"/>
+    </contour>
+    <contour>
+      <point x="-14" y="818" type="line"/>
+      <point x="-110" y="710" type="line"/>
+      <point x="-80" y="710" type="line"/>
+      <point x="-2" y="788" type="line"/>
+      <point x="2" y="788" type="line"/>
+      <point x="80" y="710" type="line"/>
+      <point x="110" y="710" type="line"/>
+      <point x="14" y="818" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/05 20:57:25</string>
+    </dict>
+  </lib>
+</glyph>

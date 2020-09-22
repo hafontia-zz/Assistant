@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kafdagesh-hb" format="2">
+  <advance width="462"/>
+  <unicode hex="FB3B"/>
+  <outline>
+    <component base="kaf-hb"/>
+    <component base="dagesh-hb" xOffset="120" yOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/03 19:32:13</string>
+    </dict>
+  </lib>
+</glyph>

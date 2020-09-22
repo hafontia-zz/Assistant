@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction.lat" format="2">
+  <advance width="100"/>
+  <outline>
+    <contour>
+      <point x="-172" y="-12" type="line"/>
+      <point x="-76" y="-12" type="line"/>
+      <point x="272" y="662" type="line"/>
+      <point x="176" y="662" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/05 20:57:25</string>
+    </dict>
+  </lib>
+</glyph>

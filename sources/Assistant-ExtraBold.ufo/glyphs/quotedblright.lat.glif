@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblright.lat" format="2">
+  <advance width="580"/>
+  <outline>
+    <contour>
+      <point x="110" y="322" type="line"/>
+      <point x="216" y="372"/>
+      <point x="266" y="450"/>
+      <point x="266" y="550" type="curve" smooth="yes"/>
+      <point x="266" y="642"/>
+      <point x="230" y="696"/>
+      <point x="160" y="696" type="curve" smooth="yes"/>
+      <point x="110" y="696"/>
+      <point x="74" y="660"/>
+      <point x="74" y="604" type="curve" smooth="yes"/>
+      <point x="74" y="554"/>
+      <point x="112" y="522"/>
+      <point x="160" y="522" type="curve" smooth="yes"/>
+      <point x="182" y="522"/>
+      <point x="204" y="533"/>
+      <point x="220" y="545" type="curve"/>
+      <point x="169" y="618" type="line"/>
+      <point x="170" y="524" type="line"/>
+      <point x="170" y="464"/>
+      <point x="138" y="424"/>
+      <point x="74" y="396" type="curve"/>
+    </contour>
+    <contour>
+      <point x="370" y="322" type="line"/>
+      <point x="476" y="372"/>
+      <point x="526" y="450"/>
+      <point x="526" y="550" type="curve" smooth="yes"/>
+      <point x="526" y="642"/>
+      <point x="490" y="696"/>
+      <point x="420" y="696" type="curve" smooth="yes"/>
+      <point x="370" y="696"/>
+      <point x="334" y="660"/>
+      <point x="334" y="604" type="curve" smooth="yes"/>
+      <point x="334" y="554"/>
+      <point x="372" y="522"/>
+      <point x="420" y="522" type="curve" smooth="yes"/>
+      <point x="442" y="522"/>
+      <point x="464" y="533"/>
+      <point x="480" y="545" type="curve"/>
+      <point x="429" y="618" type="line"/>
+      <point x="430" y="524" type="line"/>
+      <point x="430" y="464"/>
+      <point x="398" y="424"/>
+      <point x="334" y="396" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/01 19:48:53</string>
+    </dict>
+  </lib>
+</glyph>

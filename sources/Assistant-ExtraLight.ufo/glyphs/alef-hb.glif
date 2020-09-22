@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alef-hb" format="2">
+  <advance width="522"/>
+  <unicode hex="05D0"/>
+  <anchor x="261" y="0" name="bottom"/>
+  <anchor x="15" y="0" name="bottomleft"/>
+  <anchor x="229" y="90" name="center"/>
+  <anchor x="252" y="500" name="top"/>
+  <anchor x="36" y="500" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="482" y="0" type="line"/>
+      <point x="339" y="209" type="line"/>
+      <point x="447" y="545" type="line"/>
+      <point x="414" y="545" type="line"/>
+      <point x="341" y="316" type="line"/>
+      <point x="320" y="238" type="line"/>
+      <point x="211" y="398" type="line"/>
+      <point x="117" y="545" type="line"/>
+      <point x="82" y="545" type="line"/>
+      <point x="173" y="404" type="line"/>
+      <point x="148" y="344" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="191" y="375" type="line"/>
+      <point x="445" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/01 19:44:46</string>
+    </dict>
+  </lib>
+</glyph>

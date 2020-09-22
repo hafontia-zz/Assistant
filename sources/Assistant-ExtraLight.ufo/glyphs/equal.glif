@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal" format="2">
+  <advance width="472"/>
+  <unicode hex="003D"/>
+  <outline>
+    <component base="minus" yOffset="100"/>
+    <component base="minus" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/04/04 12:21:27</string>
+      <key>public.markColor</key>
+      <string>0.302,1,0.545,0.004</string>
+    </dict>
+  </lib>
+</glyph>

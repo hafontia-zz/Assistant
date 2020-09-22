@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emdash.lat" format="2">
+  <advance width="800"/>
+  <outline>
+    <contour>
+      <point x="44" y="200" type="line"/>
+      <point x="756" y="200" type="line"/>
+      <point x="756" y="308" type="line"/>
+      <point x="44" y="308" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/11/05 20:57:25</string>
+    </dict>
+  </lib>
+</glyph>

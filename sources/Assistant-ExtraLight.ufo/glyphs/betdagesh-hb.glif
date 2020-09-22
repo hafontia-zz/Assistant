@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="betdagesh-hb" format="2">
+  <advance width="515"/>
+  <unicode hex="FB31"/>
+  <outline>
+    <component base="bet-hb"/>
+    <component base="dagesh-hb" xOffset="131" yOffset="7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/29 15:01:53</string>
+    </dict>
+  </lib>
+</glyph>

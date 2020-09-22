@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tav-hb" format="2">
+  <advance width="651"/>
+  <unicode hex="05EA"/>
+  <anchor x="342" y="0" name="bottom"/>
+  <anchor x="14" y="0" name="bottomleft"/>
+  <anchor x="351" y="250" name="center"/>
+  <anchor x="323" y="500" name="top"/>
+  <anchor x="84" y="500" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="30" y="-19" type="line"/>
+      <point x="201" y="-3"/>
+      <point x="279" y="45"/>
+      <point x="279" y="218" type="curve" smooth="yes"/>
+      <point x="279" y="445" type="line"/>
+      <point x="379" y="445" type="line" smooth="yes"/>
+      <point x="409" y="445"/>
+      <point x="424" y="430"/>
+      <point x="424" y="400" type="curve" smooth="yes"/>
+      <point x="424" y="0" type="line"/>
+      <point x="606" y="0" type="line"/>
+      <point x="606" y="390" type="line" smooth="yes"/>
+      <point x="606" y="526"/>
+      <point x="531" y="579"/>
+      <point x="431" y="579" type="curve" smooth="yes"/>
+      <point x="97" y="579" type="line"/>
+      <point x="97" y="194" type="line" smooth="yes"/>
+      <point x="97" y="130"/>
+      <point x="90" y="112"/>
+      <point x="15" y="103" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/13 19:14:32</string>
+    </dict>
+  </lib>
+</glyph>

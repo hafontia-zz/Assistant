@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finalpedagesh-hb" format="2">
+  <advance width="573"/>
+  <unicode hex="FB43"/>
+  <outline>
+    <component base="finalpe-hb"/>
+    <component base="dagesh-hb" xOffset="223" yOffset="7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/28 10:33:09</string>
+    </dict>
+  </lib>
+</glyph>

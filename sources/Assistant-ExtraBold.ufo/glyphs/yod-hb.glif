@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yod-hb" format="2">
+  <advance width="278"/>
+  <unicode hex="05D9"/>
+  <anchor x="139" y="0" name="bottom"/>
+  <anchor x="20" y="0" name="bottomleft"/>
+  <anchor x="-14" y="348" name="center"/>
+  <anchor x="139" y="500" name="top"/>
+  <anchor x="20" y="500" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="51" y="210" type="line"/>
+      <point x="232" y="240" type="line"/>
+      <point x="233" y="303" type="line"/>
+      <point x="233" y="462" type="line"/>
+      <point x="221" y="579" type="line"/>
+      <point x="40" y="579" type="line"/>
+      <point x="51" y="462" type="line"/>
+      <point x="51" y="303" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/29 14:44:15</string>
+    </dict>
+  </lib>
+</glyph>
